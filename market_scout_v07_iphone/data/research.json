@@ -1,6 +1,6 @@
 {
   "schema_version": "0.7",
-  "generated_at": "2026-11-18T22:13:08.067310+00:00",
+  "generated_at": "2026-11-18T22:50:11.303287+00:00",
   "disclaimer": "News headlines are discovery leads, not validated customer demand or verified primary sources. No AI analysis or revenue automation has run.",
   "feed_status": [
     {
@@ -25,6 +25,28 @@
     }
   ],
   "items": [
+    {
+      "id": "32e8bec59cf8cd85",
+      "topic": "Google News / AI automation",
+      "title": "「Google Apps Script」のコードをGeminiで開発する機能が一般提供開始／専門知識なしで業務自動化が可能に - 窓の杜",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ueFJWcTNzZlM1YWhXRF9pdHZLQjluNGdPQTRIeGJLbHVuVWJNWDR2SXBjQlY2MTVPQ0lJVzlsVnpzSUg3RUlzQ2pReFZFTk9fSzUzdXBGd3o0bm5qajNtbDhtNmRiMkJX?oc=5",
+      "published": "2026-11-18T09:45:00+00:00",
+      "summary": "「Google Apps Script」のコードをGeminiで開発する機能が一般提供開始／専門知識なしで業務自動化が可能に &nbsp;&nbsp; 窓の杜",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:50:11.303287+00:00"
+    },
+    {
+      "id": "a2375b6d3fa89839",
+      "topic": "Google News / small business",
+      "title": "DX事業のさらなる価値創出に向けて「BluStellar」をグループ会社へ展開 - NEC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrZzItUmhBX3phXzR6ZjdORllpazR0d0JLWWktTmtDOWh4X2tZZ3o0UndBRnEyYjJPT0JQVU9zeGFkbEVDUG5TQVdMbTY4VjdUd2E5bEpCUkxDZERvQ0E?oc=5",
+      "published": "2026-04-01T07:00:00+00:00",
+      "summary": "DX事業のさらなる価値創出に向けて「BluStellar」をグループ会社へ展開 &nbsp;&nbsp; NEC",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:50:11.303287+00:00"
+    },
     {
       "id": "3ab6ef4b89b4576f",
       "topic": "Google News / AI automation",
