@@ -1,25 +1,19 @@
-# Market Scout v0.7 — GitHub Pages + scheduled RSS discovery
+# Market Scout v0.8
 
-## What works
-- v0.6 candidate scoring, experiment logging, research queue and JSON backups, all browser-local.
-- `scout.py`: fetches four Japanese Google News RSS searches; stores deduplicated, explicitly unverified news leads in `data/research.json`.
-- GitHub Actions: manual trigger or daily scheduled execution around 07:15 JST (GitHub may delay/skip schedules). Commits refreshed JSON to the repository.
-- iPhone dashboard loads the JSON from the same Pages origin. No API key needed.
+[公開ダッシュボード](https://wkwstaka.github.io/market-scout/)では公開 RSS から抽出した調査候補を最大5件表示します。記事の見出しとリンク、採用理由、7日間の検証案を確認できます。従来の候補登録・実験記録・バックアップは端末のブラウザーに保存されます。
 
-## Publish from iPhone (public repository)
-1. Create a **public** GitHub repository named `market-scout` (or use your existing one).
-2. Upload **all contents** of this ZIP to the repository root, preserving `.github/workflows/research.yml`, `data/research.json`, `scout.py`, `index.html`. GitHub's mobile web uploader may not handle folder trees well; desktop upload or a GitHub-compatible Git client may be easier.
-3. In Settings > Pages choose **Deploy from a branch**, branch `main`, folder `/(root)`, Save.
-4. In Actions > Daily market evidence collection > Run workflow > Run workflow. Check the run log. It should update `data/research.json` and commit it; then wait for Pages to redeploy.
-5. Visit `https://YOUR-USERNAME.github.io/market-scout/` in iPhone Safari. Replace YOUR-USERNAME with your own GitHub username. The URL is an example until published.
-6. If commit fails due to permissions, in Settings > Actions > General > Workflow permissions allow **Read and write permissions**, then retry. Some organizations restrict this.
+## 選別と評価
 
-## Limits and safeguards
-- Public repository means research JSON and all committed files are public. **Never upload credentials, private sales records, customer data, or API keys**.
-- GitHub Pages is static; browser-local experiments do not sync between devices. Back up with JSON export.
-- News RSS is a discovery input only; does not validate demand, customer willingness to pay, profitability, or sources. Google News article links may redirect.
-- No LLM analysis, autonomous business decisions, outreach, purchase, account creation, or sales tracking is implemented. No claims of actual revenue.
-- GitHub scheduled workflows may be disabled after inactivity and are not guaranteed to execute on time.
+見出しに対象分野と具体的な論点の両方が含まれる場合に採用します。商品券などの誤一致を除外し、正規化した見出しまたは記事 URL が同じものを重複として扱います。見出しを変更した転載などは残ることがあります。
 
-## Next stage v0.8
-Server-side LLM research synthesis with cited evidence, human approval gates, strict spend caps, and private data store. Never put LLM secrets into browser JS or public JSON.
+調査優先度は候補ごとの最上位シグナルで決まります。調査・公募への言及が3、事例・提供・制度変更への言及が2、その他の関連見出しが1です。同点は候補 ID 順です。記事の数や見出しの記述だけで需要・収益性・自動化適性・初期費用・継続性を採点せず、必要なデータを表示します。RSS は一次資料への手がかりです。本文や事業成果は未確認です。
+
+## 実行
+
+```sh
+python3 -m unittest discover -s market_scout_v07_iphone -v
+python3 market_scout_v07_iphone/analyze.py
+python3 -m http.server 8000
+```
+
+公開リポジトリと標準の GitHub ホストランナーを使います。API キーは不要です。Actions が毎日07:15ごろ（日本時間）に RSS を取得し、テスト、レポート生成、Pages 公開、公開済みデータの保存を行います。スケジュールには遅延があり、手動実行も可能です。Pages の公開元は GitHub Actions です。取得に失敗したフィードは過去データを保持し、画面にエラー件数を表示します。公開サイトには公開 RSS と集計データのみを含めます。
