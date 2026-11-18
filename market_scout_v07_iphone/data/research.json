@@ -1,1 +1,557 @@
-{"schema_version":"0.7","generated_at":null,"disclaimer":"No collection has run yet. Headlines are leads, not proven demand.","feed_status":[],"items":[]}
+{
+  "schema_version": "0.7",
+  "generated_at": "2026-11-18T22:13:08.067310+00:00",
+  "disclaimer": "News headlines are discovery leads, not validated customer demand or verified primary sources. No AI analysis or revenue automation has run.",
+  "feed_status": [
+    {
+      "feed": "Google News / AI automation",
+      "status": "ok",
+      "count": 12
+    },
+    {
+      "feed": "Google News / digital products",
+      "status": "ok",
+      "count": 12
+    },
+    {
+      "feed": "Google News / small business",
+      "status": "ok",
+      "count": 12
+    },
+    {
+      "feed": "Google News / creator economy",
+      "status": "ok",
+      "count": 12
+    }
+  ],
+  "items": [
+    {
+      "id": "3ab6ef4b89b4576f",
+      "topic": "Google News / AI automation",
+      "title": "AIに任せない意思決定の重要性、一流CIOが明かす「業務自動化の落とし穴」 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DbGp2REdpRXpKSmdSNmpXOWltVGJNR1loanM5RGphdUxpYlpmVFZueFA0N3pWeHJBNnJMZmQtSWZHd0ltb2NCeG1JZGxkMDlJWW5Vci1TZS1kdmZyTDVkTkFZTlhOZ0lfQ29JU2JWMFFUeTFSZC1XcmIwVDkzVDA?oc=5",
+      "published": "2026-11-16T05:00:00+00:00",
+      "summary": "AIに任せない意思決定の重要性、一流CIOが明かす「業務自動化の落とし穴」 &nbsp;&nbsp; Yahoo!ニュース",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "661200377cd03010",
+      "topic": "Google News / AI automation",
+      "title": "Allganize Holdings上場会見、AI業務自動化を日米韓で展開 SaaSとオンプレミスの同時提供が強み - ログミーFinance",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4TmZrVVQ0MGZ6eDZwTFhvb3VnMXFBV1VPQUw5aU9kRXYtM3VvUGJRRGlmcFRzM1ZWeG1qOThzT3VRc1BvOXFnRllHZjlKNVBuY3c?oc=5",
+      "published": "2026-11-05T09:00:02+00:00",
+      "summary": "Allganize Holdings上場会見、AI業務自動化を日米韓で展開 SaaSとオンプレミスの同時提供が強み &nbsp;&nbsp; ログミーFinance",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "f854fd3303fe9b82",
+      "topic": "Google News / AI automation",
+      "title": "NEC、業務自動化AIを販売 8月からマイクロソフト通じ - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jemNNZVpVQVFWcnJ2eU84VDVSM19wZ0ZFaE5KOTMwZ0gwY1NKOTIyZjBvZDdDQ2R4bk1kV3UzU1l6UzJuaGFjZEx6ZG5CSjBjcmVoRnJBXzUzX2pnYTlyUHdlZV9aMXNXV3BLbA?oc=5",
+      "published": "2026-08-18T07:00:00+00:00",
+      "summary": "NEC、業務自動化AIを販売 8月からマイクロソフト通じ &nbsp;&nbsp; 日本経済新聞",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "e309a374c97ca59c",
+      "topic": "Google News / AI automation",
+      "title": "生成AI 業務変革カオスマップを公開！～実務を再定義する「自律・自動化・専門特化」、200製品以上の最新ソリューションを集約～ - AIsmiley",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR0RBalpBQ1lwLXJkLUh6V09IQzRXeHMtTDN3VmVDc05TWjdSYlFfSmhaQXo3TkU1Z0Z0RlZiTTUxcDhRaF9rS3RENUNKcWkyZlNZQXFac2ZFejRhaXJuWmtZaU1mODBFNnNBUGk4N0t0ZkdoblRLQXVpcFhKMFV4X1YwOA?oc=5",
+      "published": "2026-11-02T08:00:00+00:00",
+      "summary": "生成AI 業務変革カオスマップを公開！～実務を再定義する「自律・自動化・専門特化」、200製品以上の最新ソリューションを集約～ &nbsp;&nbsp; AIsmiley",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "98121c9c291555e3",
+      "topic": "Google News / AI automation",
+      "title": "自治体DXの現場で高まるAI活用ニーズを確認 - アットプレス",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qSktlLWF1WVRnSGp0UnR4V0RWeEROMkUtSWE4b2hJRTNYTUlXMUhsT3diLXctbUl4ZWRwMDRTMVJsRTUzT1daa1BJQ0twdw?oc=5",
+      "published": "2026-11-16T06:40:00+00:00",
+      "summary": "自治体DXの現場で高まるAI活用ニーズを確認 &nbsp;&nbsp; アットプレス",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "93f08fb168959120",
+      "topic": "Google News / AI automation",
+      "title": "Allganize Holdings上場会見、AI業務自動化を日米韓で展開 SaaSとオンプレミスの同時提供が強み - みんかぶ",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAyX2JlZzVmRGY0dnRoMkJHM2RzdTlKTlM4QU5QbmdPSzF3eW1OdFBXa3AyeU4wY180VXViQlpBcXAwQlBTd0E?oc=5",
+      "published": "2026-11-05T08:00:00+00:00",
+      "summary": "Allganize Holdings上場会見、AI業務自動化を日米韓で展開 SaaSとオンプレミスの同時提供が強み &nbsp;&nbsp; みんかぶ",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "47fe54c397e39043",
+      "topic": "Google News / AI automation",
+      "title": "第1回AI・業務自動化展を取材。RPA製品、OCR機能、チャットボットなどの最先端に迫る。 - ウイングアーク１ｓｔ",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53TUN4bW9ubkNSdld1MjBLZjdMRDl4ZTJpVnBwX0V5TGw1Wm1zOElQYkZaNDFBNHdGUkh4MkxuMzlTWmFRdGo5TXlKc0tDV3JzanNfT2I2a3Y0Rkg1aWtwSC1oRVZnMzRPQkJSUTRRdw?oc=5",
+      "published": "2026-07-17T07:00:00+00:00",
+      "summary": "第1回AI・業務自動化展を取材。RPA製品、OCR機能、チャットボットなどの最先端に迫る。 &nbsp;&nbsp; ウイングアーク１ｓｔ",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "56da8a41e63fd792",
+      "topic": "Google News / AI automation",
+      "title": "NEC、Microsoft Marketplaceで業務自動化AIエージェント「NEC cotomi Agent」を販売開始 (2026年8月18日): プレスリリース - NEC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NMVJMeEE0dHU3Rm0wMDJzamxsVm8yYkVPV0UyNzFySURZQ1V2WXZaTzVfTHF3UHV5Vkprenhfa0RRNHFvSTBOeVlLYW9jaHBJeVNSV2puMUxHUF9XaGc?oc=5",
+      "published": "2026-08-18T07:00:00+00:00",
+      "summary": "NEC、Microsoft Marketplaceで業務自動化AIエージェント「NEC cotomi Agent」を販売開始 (2026年8月18日): プレスリリース &nbsp;&nbsp; NEC",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "caa367fb11e3c5f0",
+      "topic": "Google News / AI automation",
+      "title": "【オンライン】AI・業務自動化・RPA 2026 冬 チャットGPTの衝撃、DXのドライバーとなる インテリジェント・オートメーションの実現 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qQ3V0a3dmTk5MX25KUDd5OEp6aFd0S0xTdVhIR3FUSkhqMUdmZ0lubjVBNndJeWJNdlkxTmtDYUl4OGxKZlZOVnBONHQ?oc=5",
+      "published": "2026-02-05T08:00:00+00:00",
+      "summary": "【オンライン】AI・業務自動化・RPA 2026 冬 チャットGPTの衝撃、DXのドライバーとなる インテリジェント・オートメーションの実現 &nbsp;&nbsp; ビジネス+IT",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "d49186fdc1cee1d3",
+      "topic": "Google News / AI automation",
+      "title": "12/10開催 非エンジニアのための業務自動化入門 ～AI×プリザンター×RPAを使いこなす～ - 公立大学法人 岩手県立大学",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSSi00QkQzdzVsQnF6SGtLN3M0cl9lbU5YSGpsRlFzY1h3SEN2QlgtNDhzLVhORFhKcDFldjNmdDhCV1hzakVQN1BRc2hQeE9Fd0toSDhMVVBSdGpWeEVFMm9ydk1zRjdkbFBJ?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "summary": "12/10開催 非エンジニアのための業務自動化入門 ～AI×プリザンター×RPAを使いこなす～ &nbsp;&nbsp; 公立大学法人 岩手県立大学",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "b0d1f519667c799d",
+      "topic": "Google News / AI automation",
+      "title": "日経クロステックNEXT 東京 2026「AIによるバックオフィス自動化ツール続々、ユーザーの受け入れ準備が急務に」 - 日経BPイベント＆セミナー",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRdlhxVlhJQVl6WnpkQmJLdjlJNXV3am1NSnBBekxDWV9Jc0tJRmxjOUt5UFduaF9QOUJJZzVnTGg1eHVNUWprcUIweFdQVEZrZmdSc01YSW1rNThkenh6ZlEwa3dlYnlw?oc=5",
+      "published": "2026-09-09T07:00:00+00:00",
+      "summary": "日経クロステックNEXT 東京 2026「AIによるバックオフィス自動化ツール続々、ユーザーの受け入れ準備が急務に」 &nbsp;&nbsp; 日経BPイベント＆セミナー",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "b2633882a4b7b236",
+      "topic": "Google News / AI automation",
+      "title": "n8n活用事例20選｜部門別の業務自動化ワークフローを紹介 - AI新聞 - 株式会社エクサウィザーズ",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93aVh2SWFDcnFkdUVHSGtEQXBNMUdPQmxLZ1lFMHlwRjk4ZEJ0U18wNmZwQ0UyOFFVWm5ybGFOWG5IeXAwMWNkWTBOX1dRSXVSWkZaVTJPY2RhTzNuTFFZR21n?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "summary": "n8n活用事例20選｜部門別の業務自動化ワークフローを紹介 - AI新聞 &nbsp;&nbsp; 株式会社エクサウィザーズ",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "9560cfb9c18871f7",
+      "topic": "Google News / digital products",
+      "title": "【令和8年12月1日販売開始】昭島市プレミアム付デジタル商品券を販売｜昭島市公式ホームページ - 昭島市公式ホームページ",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CREZ2TjY4V3ktblFiTHNqRzRKbjE3aVk1UTJQTDZPLV9uemZOLU1PaE1ERDFuQmtoSjZtSWYyZUVqUEJjbWNDUW10b01TemxmekJwTHZCaFRxLUJPeFFHNVk2LTUzdUZRcmxkbUIzZmI?oc=5",
+      "published": "2026-11-17T21:13:56+00:00",
+      "summary": "【令和8年12月1日販売開始】昭島市プレミアム付デジタル商品券を販売｜昭島市公式ホームページ &nbsp;&nbsp; 昭島市公式ホームページ",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "69bf9297d5d26a15",
+      "topic": "Google News / digital products",
+      "title": "豊後大野市プレミアム付デジタル商品券の２次販売を行います！ - 豊後大野市",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vT2NGbDdfWXVmQk1ZY3BtTUZEYW9PQnN0Tjl6N0VrMGFJTWdyZE03Tmk4ZTZ5ODg2MURveXM2NUt4Ml9fMUxaZFdxSXNEcVozcXMtZDVJT3A2dE42?oc=5",
+      "published": "2026-11-04T08:00:00+00:00",
+      "summary": "豊後大野市プレミアム付デジタル商品券の２次販売を行います！ &nbsp;&nbsp; 豊後大野市",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "d78cb00867829876",
+      "topic": "Google News / digital products",
+      "title": "墨田区内で使えるデジタル商品券 年末ニーズに合わせて2次販売（みんなの経済新聞ネットワーク） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81bXZSWnRlS1A5TjhSbFBCUjNiellJRVVUYWNmdF8wTDI4RW9ZN05yWGQ5eHpHcXp3cFpSRWJqYkdEN1I1Q0xsc1hEdG9SLUVTYTBCY0pnZEpTcGtJekd1MzRtZVdjQWlYdVBEdk5rWllBU3RnbnAwY1RIeDlXTDg?oc=5",
+      "published": "2026-11-16T09:31:27+00:00",
+      "summary": "墨田区内で使えるデジタル商品券 年末ニーズに合わせて2次販売（みんなの経済新聞ネットワーク） &nbsp;&nbsp; Yahoo!ニュース",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "ceb4bd85a3099583",
+      "topic": "Google News / digital products",
+      "title": "ArtStation Marketplace が12月18日に終了！デジタル商品の販売は Gumroad に移行へ - CGinterest",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1POGpDdUpBSmNvVXl4WERTcEY5VlZTTURXZ0xLdHNLbkFxU2VlcEt3MEI5aFdGcnllbWEzVmx3bHF4UXVYQXkzMm15RkNfOGpmTnJDV1BBcVlWdjlqX2hjTXRaLXIzUXJKN1puN2pXYkVZQVE?oc=5",
+      "published": "2026-11-18T22:06:00+00:00",
+      "summary": "ArtStation Marketplace が12月18日に終了！デジタル商品の販売は Gumroad に移行へ &nbsp;&nbsp; CGinterest",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "a60582f43ee58e83",
+      "topic": "Google News / digital products",
+      "title": "最大8000円分お得…福井県の商品券「ふく＋（ふくたす）」最終販売スタート 先着順、県外在住者も購入可能 - 福井新聞社",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CM3djd0FFOFdReEptMk5RZWxMeng1Z1NQVEl5c0tjMDJIVkpETU4xbklmWDdJb0x5RzFpUDVWVjZNbkExanNHN0VrUW9WclJsbWpIZEVFQzFNS1haX2c?oc=5",
+      "published": "2026-11-16T01:00:00+00:00",
+      "summary": "最大8000円分お得…福井県の商品券「ふく＋（ふくたす）」最終販売スタート 先着順、県外在住者も購入可能 &nbsp;&nbsp; 福井新聞社",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "0c30b4040b325856",
+      "topic": "Google News / digital products",
+      "title": "門真市プレミアム付デジタル商品券 - 門真市",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yUFRtRV9kOHVIZXNWWUliMDRqZ09CVE0tamZyRUxtX20wMDJ5eGtDMXVjd1pNWkxfY0k0bjZxRmRNdVZ6SWYyNE9RUG11WDMwTDlqeXhRbU82d0RxNjEtaHhHNVJWWW5Kb0xmbzV1M0I4ekN0MkZWR29zQQ?oc=5",
+      "published": "2026-10-26T07:00:00+00:00",
+      "summary": "門真市プレミアム付デジタル商品券 &nbsp;&nbsp; 門真市",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "ae4e0587d18f84c3",
+      "topic": "Google News / digital products",
+      "title": "市制施行50周年 坂戸市プレミアム付デジタル商品券 - 坂戸市ホームページ",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xdUNMSm5MczZFRnZKYy02b2lkZVpYV0hhR2RNOVc4dURDMERqQWxDbkFaSjlNVFBaWmEycWNyYzZKSVlvZlBjLWxybkdCa19sOXpya2xfc2FyNFY0NkJINw?oc=5",
+      "published": "2026-11-09T08:00:00+00:00",
+      "summary": "市制施行50周年 坂戸市プレミアム付デジタル商品券 &nbsp;&nbsp; 坂戸市ホームページ",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "b0a3fbb924586e50",
+      "topic": "Google News / digital products",
+      "title": "スクラム高槻「地元のお店応援券」第8弾について - 高槻市ホームページ",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CQnZYQmRaYnlncmc3NEh0VW53Zzl0UEM0Y0NNdjhkbUVnajYwUy12WGVWamxfSXkxMEQ0VkV6M2gtMUY4dm5kSVdoWXU2QW5ibmZVZ29wdWR2ZWRaOGdQR2tueXlJd1FHSlE?oc=5",
+      "published": "2026-10-29T07:00:00+00:00",
+      "summary": "スクラム高槻「地元のお店応援券」第8弾について &nbsp;&nbsp; 高槻市ホームページ",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "027c313bae6964bc",
+      "topic": "Google News / digital products",
+      "title": "令和8年度品川区プレミアム付デジタル商品券｜品川区公式ウェブサイト - www.city.shinagawa.tokyo.jp",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01MWZNZTA4UDVqU2piaThoZDFDTE9VQUZpeTRCSG50YktmSVBxUVdTSW40UlFkeDZkTlVUeXRoNUNwU2JpOFl6bWtRTlkyNmtlU1VvSlhtcHNCY2lDT0ZWRHVoMVNYSVNXcG55N0lOekVqcVNsMlM1elZR?oc=5",
+      "published": "2026-10-22T04:47:20+00:00",
+      "summary": "令和8年度品川区プレミアム付デジタル商品券｜品川区公式ウェブサイト &nbsp;&nbsp; www.city.shinagawa.tokyo.jp",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "a1adfe823df9bc5f",
+      "topic": "Google News / digital products",
+      "title": "飯能市プレミアム付デジタル商品券事業について／飯能市-Hanno City- - 飯能市",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWkNTX3I3TUE0c0duM1ltQlJudTlzTEdkWFNKWGlzQV81SENCSlNDcU00OUFRZmIxa1lXaFhBVHF6OTdQcHZ4Tk1YbDNyaVo1Z2VhaUxtWEJmLWJ3VDBYN2pJUEgzWWRsUjhETXZPX3FUaDdkQWJFY0JaUFZpQjBHLUUxZExwOG5XdXRBZVQ1UGQ?oc=5",
+      "published": "2026-10-21T07:00:00+00:00",
+      "summary": "飯能市プレミアム付デジタル商品券事業について／飯能市-Hanno City- &nbsp;&nbsp; 飯能市",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "d5f61e22bc64b917",
+      "topic": "Google News / digital products",
+      "title": "新潟市デジタル商品券の発行について - 新潟市",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94aVdRazU1UjVrbDJlZEFsZk1RUDR4YWF0Szg2SHNSV3dPa0JJbjdnM3NMXzJtYjZaTTAtaWFMRnVXZHhmZ3BuemFSdDRKbUUteWliSTJ3dE1UMW5lV1MyYnMtR2FNU3JkU0E?oc=5",
+      "published": "2026-09-15T07:00:00+00:00",
+      "summary": "新潟市デジタル商品券の発行について &nbsp;&nbsp; 新潟市",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "cae3292284ac5f4b",
+      "topic": "Google News / digital products",
+      "title": "令和8年度「すみだプレミアム付デジタル商品券」の発行について - 墨田区",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YeG1nSmwtR2VwSTZpUzE5bW5UdnhtNWwwQWVpMTBGbTNVbDNNZnQ3MTRsNDhocVJHcXpfTmZPZUdGRi1BYjNQM0hucHdOdkRtVjRoWDAyWmdLYy1QUEZGakhSVGtUcERSVEtELS1iZzJvMWtaNjFoajF3NmM1Zw?oc=5",
+      "published": "2026-09-28T07:00:00+00:00",
+      "summary": "令和8年度「すみだプレミアム付デジタル商品券」の発行について &nbsp;&nbsp; 墨田区",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "9762489c65f091ad",
+      "topic": "Google News / small business",
+      "title": "DXコンサルタント - J-Net21[中小企業ビジネス支援サイト]",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTRnc2RDJ6b0Q0N0xQS2VVb1FfT2JNUHNMUlkzU1RxUWUzcWJBTGlFTDYyNEhBMjlFLTNDSlVLdF9sTGhNcEt1WjZNZEgwUVpoQ2dQcjJMeEMzYWFzVkhRZHZPVlV2bllQYW50TTNiZw?oc=5",
+      "published": "2026-07-06T07:00:00+00:00",
+      "summary": "DXコンサルタント &nbsp;&nbsp; J-Net21[中小企業ビジネス支援サイト]",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "a691ee54d525a36f",
+      "topic": "Google News / small business",
+      "title": "2024年版「中小企業白書」 第7節 DX（デジタル・トランスフォーメーション） - 中小企業庁",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xdG9DM1JnVkw5UVRUeUVnUFdpZGZPU1V2S3VzY0hZMG5rbzY3QWcxMTZnd1J2cmFLX2kxOVFhcDJVVDFQeThpcm9jeFdvQ0syS19odWJJaFBRVjFZcG9USFpHZEZCd3BDNUNwaXotcjU5RkQxVVVjQQ?oc=5",
+      "published": "2024-10-10T06:00:02+00:00",
+      "summary": "2024年版「中小企業白書」 第7節 DX（デジタル・トランスフォーメーション） &nbsp;&nbsp; 中小企業庁",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "a35ba9a2f73fdd21",
+      "topic": "Google News / small business",
+      "title": "2030年問題とは？企業が抱えるリスクとDXによる解決策・導入事例 - NTTドコモビジネス",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YMHRaaEdxYW5DWTducl9pem15RGx0UnN1alA1Tng0N21WQTNCT2ZfVXUweVNfZ3VVa1BUSUVSSmFKR0Jzc3lidnM3Rm53aFcxZ0ZjbXpBUHlyMjRReEJ0WVl3?oc=5",
+      "published": "2026-01-30T12:56:24+00:00",
+      "summary": "2030年問題とは？企業が抱えるリスクとDXによる解決策・導入事例 &nbsp;&nbsp; NTTドコモビジネス",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "52e3bd6f42e2330e",
+      "topic": "Google News / small business",
+      "title": "中小企業の7割超「社内にIT人材いない」採用難でDX推進に壁【最新調査で判明】（THE GOLD ONLINE（ゴールドオンライン）） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wTzVjLTVjUEJiMVVmNEdKd0VVem14V0xna2VfQmlQX3FEVzlDVnViQmNKSnJ5VW5HNjktbERaeTZKVUthSmVTRHpvQWR2QnV0ZU43a3M2bmd0cG91aHczWmRjV0otR0RhbGZQWWtmV3BoT21lbmVCU0o5ODR1UzA?oc=5",
+      "published": "2025-12-22T08:00:00+00:00",
+      "summary": "中小企業の7割超「社内にIT人材いない」採用難でDX推進に壁【最新調査で判明】（THE GOLD ONLINE（ゴールドオンライン）） &nbsp;&nbsp; Yahoo!ニュース",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "813e6a549dc4d483",
+      "topic": "Google News / small business",
+      "title": "中小企業診断士のダブルライセンスおすすめ資格4選！最強の組み合わせは？本当に必須？ - リセマム",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4weDZTMjVGX2sxX3E4ME9qeklSTkxqZllIelQ5R29EdUJsX2FWc21GLTVKYU1zV0lhbzJYZVh0N3NvaDZUREN5cTZRa2hsNENDbVZPSDZ2Y2VBUW1TcW80bG5nV0ZMcVhzQWRQRVVB?oc=5",
+      "published": "2026-08-06T07:00:00+00:00",
+      "summary": "中小企業診断士のダブルライセンスおすすめ資格4選！最強の組み合わせは？本当に必須？ &nbsp;&nbsp; リセマム",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "06ecc7a38face0cb",
+      "topic": "Google News / small business",
+      "title": "【質問への回答を掲載しました】令和8年度中小企業DX推進人材育成支援事業業務委託に係る企画提案の募集について - 鹿児島県公式ホームページ",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHOFd5Zkh5TTNBRDZzZ3JpUF9Pa0lXU0RCZUpKVWhVS2tNOUNTRFFFUnB0UnJtem9lLVZvbDJINHBKQzZCbE5tU1NQZHZvMVhjejRtZGZGczFMRGNfdXZLVTJmMkZSS2l4ZVE?oc=5",
+      "published": "2026-04-24T07:00:00+00:00",
+      "summary": "【質問への回答を掲載しました】令和8年度中小企業DX推進人材育成支援事業業務委託に係る企画提案の募集について &nbsp;&nbsp; 鹿児島県公式ホームページ",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "b82c8fb6d044bc30",
+      "topic": "Google News / small business",
+      "title": "2025年版 中小企業白書（HTML版） 第5節 デジタル化・DX - 中小企業庁",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HMEpPTE9ZeE01bW9MVE5WbEtaT2dGUV9zT294c2pPY3ZPZWNrcDJmOWFILWZ1SGZfQ2o0cXJNNUVjc0ZKUzJNR0FsYkxkbDNSSEh6OWhOQjM1UmxBLXFKNlQ3QmlCbTZRWGNaZmZ3R0V0LW40TnBSdg?oc=5",
+      "published": "2025-07-29T10:46:00+00:00",
+      "summary": "2025年版 中小企業白書（HTML版） 第5節 デジタル化・DX &nbsp;&nbsp; 中小企業庁",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "3857f6aa70cc2e2f",
+      "topic": "Google News / small business",
+      "title": "DX人材育成の課題と最新事例を解説 - 公益財団法人日本生産性本部",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YOFN4YVJyNk5LdW9SU0dxanVPT1pNRG9WSjdLSVh1Y2JjdDQ3b0d5VmZqRnBiZ0xMdUtlNlFjNks4RGFDQUQyMnhwY1F4VTk4YUptUkR0Sm1YQQ?oc=5",
+      "published": "2025-08-26T20:12:56+00:00",
+      "summary": "DX人材育成の課題と最新事例を解説 &nbsp;&nbsp; 公益財団法人日本生産性本部",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "479760b2d0652110",
+      "topic": "Google News / small business",
+      "title": "企業のDXを阻む「レガシーシステム」とは？ユーザー企業がモダン化を進めるために取るべき対策とは【レガシーシステムモダン化委員会総括レポート：前編】 - デジタル庁ニュース",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zMVVQZzdiRFhpWGU2bjE5TmUyaDBFcnVjUXMyWlJVcW5kZGMxOVhmNFV1c3NwSm5TWFl1UlNLbTAyMmotaS05Yk5fbVhrLVhsRlR6T2xrRmVCV3FmNVdKb1JWQm5KVEtnOXRsQ2g4b0I?oc=5",
+      "published": "2025-08-27T07:00:00+00:00",
+      "summary": "企業のDXを阻む「レガシーシステム」とは？ユーザー企業がモダン化を進めるために取るべき対策とは【レガシーシステムモダン化委員会総括レポート：前編】 &nbsp;&nbsp; デジタル庁ニュース",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "fab07c4d337226a3",
+      "topic": "Google News / small business",
+      "title": "需要旺盛なDX関連､コンサル型と中小企業向けの銘柄は？ - 四季報オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zYzJ2S3kwUXZ4OXhKMU1vQUtPaEpMQ2xZSlBGTF9pUC1NLTU0NVhWU2x4MElqUWxVVW11MzJDVzJEUnF5RS04RVNuS3lvVER6cFFNMGlfOA?oc=5",
+      "published": "2025-11-17T08:00:00+00:00",
+      "summary": "需要旺盛なDX関連､コンサル型と中小企業向けの銘柄は？ &nbsp;&nbsp; 四季報オンライン",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "f38a1ef4cd8c9786",
+      "topic": "Google News / small business",
+      "title": "「情報サービス業」が好調 利益は5年間で1.8倍 DX・AI需要で業績が過去最高、大手寡占が進む - 東京商工リサーチ",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50MjZxQkE4VUFtMVF0amxzWmZZQ0txU0kyc1dKMFN3MEw3WlNUQ19McTFfSkIxS1BkVnhWdVpTZmJxaVpjREJmdlFUYUd2ZExQakt2akJaVXl4SHhXZDdreGFnZ2FvUQ?oc=5",
+      "published": "2026-10-27T07:00:00+00:00",
+      "summary": "「情報サービス業」が好調 利益は5年間で1.8倍 DX・AI需要で業績が過去最高、大手寡占が進む &nbsp;&nbsp; 東京商工リサーチ",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "66fe19e6bd8855b9",
+      "topic": "Google News / small business",
+      "title": "企業のDXへの取り組みに関する動向調査 - www.tdb.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tMVlMd1dRdC1Rb0ZTank1WjZlMzJ6d3BIQ0FLSFA4bE5xNXBDcTJ1MkRhUnpNTFltRjBRR3BKMmpLeWpKNzI0YzJESHdJemlNcHFUc1Nsb0NkNkE4ei1tZA?oc=5",
+      "published": "2023-06-21T07:00:00+00:00",
+      "summary": "企業のDXへの取り組みに関する動向調査 &nbsp;&nbsp; www.tdb.co.jp",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "6b672f1e1172cc16",
+      "topic": "Google News / creator economy",
+      "title": "X、「クリエイター収益分配プログラム」終了へ──「オリジナル投稿」に絞った新報酬制度に移行 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtdDVjSnMybGJ5ck5nOFN1NU0zSWRzLVA1WDFuNVF5M3pRV1ZhX2pDdlQwaDRzOFhEdEdKbDRRVWM3M3hQXzYzZ0FRS042OXlqTXBCOFdBUWJSdU44NlRJR0hwcTNoRk9ZLVE?oc=5",
+      "published": "2026-08-09T07:00:00+00:00",
+      "summary": "X、「クリエイター収益分配プログラム」終了へ──「オリジナル投稿」に絞った新報酬制度に移行 &nbsp;&nbsp; ITmedia",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "913edb0bd963b7b9",
+      "topic": "Google News / creator economy",
+      "title": "YouTube、新規クリエイターの収益化基準を2倍に…ショート動画2,000万回・長編8,000時間 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TRThpVm5oUm9fVmcxazJLdl9JUHh2b1VPR3NaYjlBVC1zdnFQcVgxN0REMER6ZUt3RjZsREFuS18yNmFXRWFaWWxJNU5GZXg0SnhmMWtjWVQxVFBJYkNnUFhOejl2aUJZLUlYN3dyVXp4Y3RS?oc=5",
+      "published": "2026-08-10T07:00:00+00:00",
+      "summary": "YouTube、新規クリエイターの収益化基準を2倍に…ショート動画2,000万回・長編8,000時間 &nbsp;&nbsp; BigGo ファイナンス",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "4d8b97f28e2da145",
+      "topic": "Google News / creator economy",
+      "title": "X、クリエイター収益化「Revenue Sharing」を終了 新制度「Original Content Rewards」へ全面移行 - Media Innovation",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54TUtDNGVzclhjcEJjS0xxYkhXbTRxUm9NbkVieC1laWZMUHgtOWlYVXc4SDBHN3F1R1F6azl4V0Z0YjV0amZMQUFaQnM5WmV5TlJBc0lSTmhYZXBuTFJSWVF4MktmT1lqbFE?oc=5",
+      "published": "2026-08-12T07:00:00+00:00",
+      "summary": "X、クリエイター収益化「Revenue Sharing」を終了 新制度「Original Content Rewards」へ全面移行 &nbsp;&nbsp; Media Innovation",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "d616091b3d3810bd",
+      "topic": "Google News / creator economy",
+      "title": "YouTubeクリエイター収益化ハードル引き上げへ。新規参加は過去1年で8000時間再生など - テクノエッジ TechnoEdge",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03c1BqemQ2SndKelNMcm5XYjNOaldTblAxQ3Y2Yi1ib1h1R0pFT2FtUk5NUjFsU1JHY19wQmxMaWcwOG1LaVFsbWxpYUVCeXZYbXNLOEJaTy1WWEFieWp3dUJWY1dBaEk?oc=5",
+      "published": "2026-08-11T07:00:00+00:00",
+      "summary": "YouTubeクリエイター収益化ハードル引き上げへ。新規参加は過去1年で8000時間再生など &nbsp;&nbsp; テクノエッジ TechnoEdge",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "c506789abcb16bb1",
+      "topic": "Google News / creator economy",
+      "title": "視聴回数だけでは稼げない時代に：2026年版クリエイター収益化プラットフォーム7選 - Forbes JAPAN",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UR1hMckdKaVFmS2pXUmhfbU45TVhaZkt3SzdkT244V05YMHFGNXRHcmFyenZxNHotYmw4UllqRkszcjFycDZYajZ5VWM2LV9RWjlNRTNEdDE?oc=5",
+      "published": "2026-04-07T07:00:00+00:00",
+      "summary": "視聴回数だけでは稼げない時代に：2026年版クリエイター収益化プラットフォーム7選 &nbsp;&nbsp; Forbes JAPAN",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "c2eab35cca9de2e7",
+      "topic": "Google News / creator economy",
+      "title": "X、収益化プログラムを一新 「オリジナル投稿」が基準に - Impress Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02XzYwWnotemJHRFBiRFdIM0diR1E1UlBxZUVCUk84UTJtU0FVNUVwU0pTMXpaT2RWa1pFUXZLWHp1dEhWeEpMVWpCUUZodHVMTmdMNzl5UXRaYnFlUWV3Q1d4aEQ?oc=5",
+      "published": "2026-08-08T07:00:00+00:00",
+      "summary": "X、収益化プログラムを一新 「オリジナル投稿」が基準に &nbsp;&nbsp; Impress Watch",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "edc97efc15805db7",
+      "topic": "Google News / creator economy",
+      "title": "YouTube パートナー プログラムの新しい収益機会と変更点 - blog.youtube",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb3poTWFmMHJkTVNfTFU5WXctRHQtcHVxV1pNcndVWmVMbTFJNTV0ZDRoVVRTcEhJSnRJVmlWNWdtc3dPTXNETWUyRVVVRmlSeVdkMThfb2dvR1JmMmNSQk4wNXNPeG9XdW9Eb1FlbWJGbHR5a1l2YU9OTG1LSUhOOENLZHR1WnRScERrOXNhOHNyMFpubjBmcGVxRTRVZm81Z0lreU1UcmhneEFs?oc=5",
+      "published": "2026-08-11T07:00:00+00:00",
+      "summary": "YouTube パートナー プログラムの新しい収益機会と変更点 &nbsp;&nbsp; blog.youtube",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "f7f171f3593bedf7",
+      "topic": "Google News / creator economy",
+      "title": "TikTok Shopクリエイターの成長と収益化を支援するコミュニティ「PLAN-B CAP」、2026年11月より新規参加者を募集 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IUzd3elk2VWRUV3FlZmd1a0VFaGJybXdjVTNuNjhLRjlfQkt1VUZvWjQ5LU9aaE5RZ1lJV3hsMGdVLWRhd1NJU2l0RVlHTllKVzJ4dlN5b2pLOW01R0EyZVhXbnBjNnNCbUE?oc=5",
+      "published": "2026-11-02T08:00:00+00:00",
+      "summary": "TikTok Shopクリエイターの成長と収益化を支援するコミュニティ「PLAN-B CAP」、2026年11月より新規参加者を募集 &nbsp;&nbsp; PR TIMES",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "9191f7ca864554cb",
+      "topic": "Google News / creator economy",
+      "title": "YouTube収益化はどう変わる？ 広告収益は2倍、ただ早期参加の入口は残る #エキスパートトピ（いしたにまさき） - エキスパート - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQkdjZ1M4dGRmYTN1R0IyQUJRLUFzLTNielFwUnl5SkxWNG9YUXJqWlloTURvcUVhTHhQU0dlalI2dUtVU29pVnA2d3haakUtMXlycEJLcGxBa2tVNGFOZl80N01KS2dfcDNYU3BWdWs0OXJEVHlqZmx6d1E3ZGNsTlUzYldMS3M2?oc=5",
+      "published": "2026-08-14T07:00:00+00:00",
+      "summary": "YouTube収益化はどう変わる？ 広告収益は2倍、ただ早期参加の入口は残る #エキスパートトピ（いしたにまさき） - エキスパート &nbsp;&nbsp; Yahoo!ニュース",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "4e2be2fb87d25ee3",
+      "topic": "Google News / creator economy",
+      "title": "Xの収益配分プログラム終了へ オリジナルコンテンツ重視の新制度に移行 - KAI-YOU",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1mbC0xNWdoTHpIV2tuQV9fblRJazhfSEZJeTdvcUJKUHNuOGFIeEM5ZEZWQXExeFhtVm5PT0ltdzZIeklhY1hLSw?oc=5",
+      "published": "2026-08-08T07:00:00+00:00",
+      "summary": "Xの収益配分プログラム終了へ オリジナルコンテンツ重視の新制度に移行 &nbsp;&nbsp; KAI-YOU",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "02ab92353a54cceb",
+      "topic": "Google News / creator economy",
+      "title": "Xが「クリエイター収益分配」を終了し「オリジナルコンテンツ報酬プログラム」開始へ - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xUWdhOE9vZ2xPSnZaNzlqOUZmNEdwLWRIR3otWmhxVjhpY2tkQ25ueHZHSU1OUFlCTXBBSFBRSGNnR0xUOVpDNXF6dGpvY0FHNTRtbjdhN1NRN3U2dUhRbUtFck5yMnQ4eGJjWmkxYUZMQVRzS1VJS0tB?oc=5",
+      "published": "2026-08-08T07:00:00+00:00",
+      "summary": "Xが「クリエイター収益分配」を終了し「オリジナルコンテンツ報酬プログラム」開始へ &nbsp;&nbsp; GIGAZINE",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    },
+    {
+      "id": "5e0deee52eae3566",
+      "topic": "Google News / creator economy",
+      "title": "YouTubeの“収益化”条件が2027年2月から変更。新規クリエイターは長尺動画の総再生時間「4000時間→8000時間」またはShortsの視聴回数「1000万→2000万」が必要に - 電ファミニコゲーマー",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FVWxvV3lFVkV2Q19yZ09nb1VzVTYtVy1GY3VTS3JYQzg5ejNTZGFSUUlTbWVvYkF6UDJIVXI5NzZpMXdWQWg1S2cxTTBYelBzZHlMMUJNYUt1dw?oc=5",
+      "published": "2026-08-11T07:00:00+00:00",
+      "summary": "YouTubeの“収益化”条件が2027年2月から変更。新規クリエイターは長尺動画の総再生時間「4000時間→8000時間」またはShortsの視聴回数「1000万→2000万」が必要に &nbsp;&nbsp; 電ファミニコゲーマー",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-18T22:13:08.067310+00:00"
+    }
+  ]
+}
