@@ -1,0 +1,407 @@
+{
+  "schema_version": "0.8",
+  "collected_at": "2026-11-18T22:13:08.067310+00:00",
+  "feed_status": [
+    {
+      "feed": "Google News / AI automation",
+      "status": "ok",
+      "count": 12
+    },
+    {
+      "feed": "Google News / digital products",
+      "status": "ok",
+      "count": 12
+    },
+    {
+      "feed": "Google News / small business",
+      "status": "ok",
+      "count": 12
+    },
+    {
+      "feed": "Google News / creator economy",
+      "status": "ok",
+      "count": 12
+    }
+  ],
+  "counts": {
+    "total": 48,
+    "matched": 23,
+    "excluded": 25,
+    "duplicates": 0
+  },
+  "top_five": [
+    {
+      "id": "adoption",
+      "name": "中小企業のDX導入支援",
+      "research_priority": 3,
+      "evidence": [
+        {
+          "title": "2024年版「中小企業白書」 第7節 DX（デジタル・トランスフォーメーション） - 中小企業庁",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xdG9DM1JnVkw5UVRUeUVnUFdpZGZPU1V2S3VzY0hZMG5rbzY3QWcxMTZnd1J2cmFLX2kxOVFhcDJVVDFQeThpcm9jeFdvQ0syS19odWJJaFBRVjFZcG9USFpHZEZCd3BDNUNwaXotcjU5RkQxVVVjQQ?oc=5",
+          "published": "2024-10-10T06:00:02+00:00",
+          "relevance": [
+            "中小企業",
+            "白書"
+          ],
+          "score": 3,
+          "reason": "調査・公募への言及"
+        },
+        {
+          "title": "2025年版 中小企業白書（HTML版） 第5節 デジタル化・DX - 中小企業庁",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HMEpPTE9ZeE01bW9MVE5WbEtaT2dGUV9zT294c2pPY3ZPZWNrcDJmOWFILWZ1SGZfQ2o0cXJNNUVjc0ZKUzJNR0FsYkxkbDNSSEh6OWhOQjM1UmxBLXFKNlQ3QmlCbTZRWGNaZmZ3R0V0LW40TnBSdg?oc=5",
+          "published": "2025-07-29T10:46:00+00:00",
+          "relevance": [
+            "中小企業",
+            "白書"
+          ],
+          "score": 3,
+          "reason": "調査・公募への言及"
+        },
+        {
+          "title": "企業のDXへの取り組みに関する動向調査 - www.tdb.co.jp",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tMVlMd1dRdC1Rb0ZTank1WjZlMzJ6d3BIQ0FLSFA4bE5xNXBDcTJ1MkRhUnpNTFltRjBRR3BKMmpLeWpKNzI0YzJESHdJemlNcHFUc1Nsb0NkNkE4ei1tZA?oc=5",
+          "published": "2023-06-21T07:00:00+00:00",
+          "relevance": [
+            "企業のdx",
+            "動向調査"
+          ],
+          "score": 3,
+          "reason": "調査・公募への言及"
+        }
+      ],
+      "opportunity_score": null,
+      "dimensions": [
+        {
+          "name": "需要",
+          "max_points": 30,
+          "points": null,
+          "needed": "対象顧客への聞き取りと有償申込"
+        },
+        {
+          "name": "収益性",
+          "max_points": 25,
+          "points": null,
+          "needed": "提示価格と提供にかかる原価・工数"
+        },
+        {
+          "name": "自動化適性",
+          "max_points": 20,
+          "points": null,
+          "needed": "対象作業の再現性・例外・手動確認の工数"
+        },
+        {
+          "name": "初期費用",
+          "max_points": 15,
+          "points": null,
+          "needed": "試作と導入に必要な費用・時間"
+        },
+        {
+          "name": "継続性",
+          "max_points": 10,
+          "points": null,
+          "needed": "利用頻度と再購入・継続利用の記録"
+        }
+      ],
+      "experiment": [
+        "1–2日目：中小企業の経営者に現状の作業、頻度、代替手段を聞く。",
+        "3–4日目：既存業務と導入候補を整理する診断を下書きし、試作時間と提供原価を見積もる。",
+        "5–6日目：承認後、聞き取り協力者に試案と仮価格を提示し、回答と有償申込数を記録する。",
+        "7日目：提示人数、回答、申込、実費、作業時間を集計し、継続判断を記録する。"
+      ]
+    },
+    {
+      "id": "skills",
+      "name": "中小企業のDX人材育成",
+      "research_priority": 3,
+      "evidence": [
+        {
+          "title": "【質問への回答を掲載しました】令和8年度中小企業DX推進人材育成支援事業業務委託に係る企画提案の募集について - 鹿児島県公式ホームページ",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHOFd5Zkh5TTNBRDZzZ3JpUF9Pa0lXU0RCZUpKVWhVS2tNOUNTRFFFUnB0UnJtem9lLVZvbDJINHBKQzZCbE5tU1NQZHZvMVhjejRtZGZGczFMRGNfdXZLVTJmMkZSS2l4ZVE?oc=5",
+          "published": "2026-04-24T07:00:00+00:00",
+          "relevance": [
+            "dx",
+            "人材"
+          ],
+          "score": 3,
+          "reason": "調査・公募への言及"
+        },
+        {
+          "title": "中小企業の7割超「社内にIT人材いない」採用難でDX推進に壁【最新調査で判明】（THE GOLD ONLINE（ゴールドオンライン）） - Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wTzVjLTVjUEJiMVVmNEdKd0VVem14V0xna2VfQmlQX3FEVzlDVnViQmNKSnJ5VW5HNjktbERaeTZKVUthSmVTRHpvQWR2QnV0ZU43a3M2bmd0cG91aHczWmRjV0otR0RhbGZQWWtmV3BoT21lbmVCU0o5ODR1UzA?oc=5",
+          "published": "2025-12-22T08:00:00+00:00",
+          "relevance": [
+            "dx",
+            "人材"
+          ],
+          "score": 3,
+          "reason": "調査・公募への言及"
+        },
+        {
+          "title": "DX人材育成の課題と最新事例を解説 - 公益財団法人日本生産性本部",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YOFN4YVJyNk5LdW9SU0dxanVPT1pNRG9WSjdLSVh1Y2JjdDQ3b0d5VmZqRnBiZ0xMdUtlNlFjNks4RGFDQUQyMnhwY1F4VTk4YUptUkR0Sm1YQQ?oc=5",
+          "published": "2025-08-26T20:12:56+00:00",
+          "relevance": [
+            "dx",
+            "人材"
+          ],
+          "score": 2,
+          "reason": "導入事例・提供・制度変更への言及"
+        }
+      ],
+      "opportunity_score": null,
+      "dimensions": [
+        {
+          "name": "需要",
+          "max_points": 30,
+          "points": null,
+          "needed": "対象顧客への聞き取りと有償申込"
+        },
+        {
+          "name": "収益性",
+          "max_points": 25,
+          "points": null,
+          "needed": "提示価格と提供にかかる原価・工数"
+        },
+        {
+          "name": "自動化適性",
+          "max_points": 20,
+          "points": null,
+          "needed": "対象作業の再現性・例外・手動確認の工数"
+        },
+        {
+          "name": "初期費用",
+          "max_points": 15,
+          "points": null,
+          "needed": "試作と導入に必要な費用・時間"
+        },
+        {
+          "name": "継続性",
+          "max_points": 10,
+          "points": null,
+          "needed": "利用頻度と再購入・継続利用の記録"
+        }
+      ],
+      "experiment": [
+        "1–2日目：中小企業のDX担当者に現状の作業、頻度、代替手段を聞く。",
+        "3–4日目：実務課題を使った短時間の研修を下書きし、試作時間と提供原価を見積もる。",
+        "5–6日目：承認後、聞き取り協力者に試案と仮価格を提示し、回答と有償申込数を記録する。",
+        "7日目：提示人数、回答、申込、実費、作業時間を集計し、継続判断を記録する。"
+      ]
+    },
+    {
+      "id": "automation",
+      "name": "バックオフィスの業務自動化",
+      "research_priority": 2,
+      "evidence": [
+        {
+          "title": "NEC、Microsoft Marketplaceで業務自動化AIエージェント「NEC cotomi Agent」を販売開始 (2026年8月18日): プレスリリース - NEC",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NMVJMeEE0dHU3Rm0wMDJzamxsVm8yYkVPV0UyNzFySURZQ1V2WXZaTzVfTHF3UHV5Vkprenhfa0RRNHFvSTBOeVlLYW9jaHBJeVNSV2puMUxHUF9XaGc?oc=5",
+          "published": "2026-08-18T07:00:00+00:00",
+          "relevance": [
+            "業務自動化",
+            "販売"
+          ],
+          "score": 2,
+          "reason": "導入事例・提供・制度変更への言及"
+        },
+        {
+          "title": "n8n活用事例20選｜部門別の業務自動化ワークフローを紹介 - AI新聞 - 株式会社エクサウィザーズ",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93aVh2SWFDcnFkdUVHSGtEQXBNMUdPQmxLZ1lFMHlwRjk4ZEJ0U18wNmZwQ0UyOFFVWm5ybGFOWG5IeXAwMWNkWTBOX1dRSXVSWkZaVTJPY2RhTzNuTFFZR21n?oc=5",
+          "published": "2026-07-31T07:00:00+00:00",
+          "relevance": [
+            "業務自動化",
+            "事例"
+          ],
+          "score": 2,
+          "reason": "導入事例・提供・制度変更への言及"
+        },
+        {
+          "title": "NEC、業務自動化AIを販売 8月からマイクロソフト通じ - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jemNNZVpVQVFWcnJ2eU84VDVSM19wZ0ZFaE5KOTMwZ0gwY1NKOTIyZjBvZDdDQ2R4bk1kV3UzU1l6UzJuaGFjZEx6ZG5CSjBjcmVoRnJBXzUzX2pnYTlyUHdlZV9aMXNXV3BLbA?oc=5",
+          "published": "2026-08-18T07:00:00+00:00",
+          "relevance": [
+            "業務自動化",
+            "販売"
+          ],
+          "score": 1,
+          "reason": "関連する見出し"
+        }
+      ],
+      "opportunity_score": null,
+      "dimensions": [
+        {
+          "name": "需要",
+          "max_points": 30,
+          "points": null,
+          "needed": "対象顧客への聞き取りと有償申込"
+        },
+        {
+          "name": "収益性",
+          "max_points": 25,
+          "points": null,
+          "needed": "提示価格と提供にかかる原価・工数"
+        },
+        {
+          "name": "自動化適性",
+          "max_points": 20,
+          "points": null,
+          "needed": "対象作業の再現性・例外・手動確認の工数"
+        },
+        {
+          "name": "初期費用",
+          "max_points": 15,
+          "points": null,
+          "needed": "試作と導入に必要な費用・時間"
+        },
+        {
+          "name": "継続性",
+          "max_points": 10,
+          "points": null,
+          "needed": "利用頻度と再購入・継続利用の記録"
+        }
+      ],
+      "experiment": [
+        "1–2日目：バックオフィス担当者に現状の作業、頻度、代替手段を聞く。",
+        "3–4日目：手作業1件を自動化する試作を下書きし、試作時間と提供原価を見積もる。",
+        "5–6日目：承認後、聞き取り協力者に試案と仮価格を提示し、回答と有償申込数を記録する。",
+        "7日目：提示人数、回答、申込、実費、作業時間を集計し、継続判断を記録する。"
+      ]
+    },
+    {
+      "id": "creators",
+      "name": "クリエイターの収益導線の見直し",
+      "research_priority": 2,
+      "evidence": [
+        {
+          "title": "TikTok Shopクリエイターの成長と収益化を支援するコミュニティ「PLAN-B CAP」、2026年11月より新規参加者を募集 - PR TIMES",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IUzd3elk2VWRUV3FlZmd1a0VFaGJybXdjVTNuNjhLRjlfQkt1VUZvWjQ5LU9aaE5RZ1lJV3hsMGdVLWRhd1NJU2l0RVlHTllKVzJ4dlN5b2pLOW01R0EyZVhXbnBjNnNCbUE?oc=5",
+          "published": "2026-11-02T08:00:00+00:00",
+          "relevance": [
+            "tiktok",
+            "収益化"
+          ],
+          "score": 2,
+          "reason": "導入事例・提供・制度変更への言及"
+        },
+        {
+          "title": "X、「クリエイター収益分配プログラム」終了へ──「オリジナル投稿」に絞った新報酬制度に移行 - ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtdDVjSnMybGJ5ck5nOFN1NU0zSWRzLVA1WDFuNVF5M3pRV1ZhX2pDdlQwaDRzOFhEdEdKbDRRVWM3M3hQXzYzZ0FRS042OXlqTXBCOFdBUWJSdU44NlRJR0hwcTNoRk9ZLVE?oc=5",
+          "published": "2026-08-09T07:00:00+00:00",
+          "relevance": [
+            "クリエイター",
+            "収益分配"
+          ],
+          "score": 2,
+          "reason": "導入事例・提供・制度変更への言及"
+        },
+        {
+          "title": "X、クリエイター収益化「Revenue Sharing」を終了 新制度「Original Content Rewards」へ全面移行 - Media Innovation",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54TUtDNGVzclhjcEJjS0xxYkhXbTRxUm9NbkVieC1laWZMUHgtOWlYVXc4SDBHN3F1R1F6azl4V0Z0YjV0amZMQUFaQnM5WmV5TlJBc0lSTmhYZXBuTFJSWVF4MktmT1lqbFE?oc=5",
+          "published": "2026-08-12T07:00:00+00:00",
+          "relevance": [
+            "クリエイター",
+            "収益化"
+          ],
+          "score": 2,
+          "reason": "導入事例・提供・制度変更への言及"
+        }
+      ],
+      "opportunity_score": null,
+      "dimensions": [
+        {
+          "name": "需要",
+          "max_points": 30,
+          "points": null,
+          "needed": "対象顧客への聞き取りと有償申込"
+        },
+        {
+          "name": "収益性",
+          "max_points": 25,
+          "points": null,
+          "needed": "提示価格と提供にかかる原価・工数"
+        },
+        {
+          "name": "自動化適性",
+          "max_points": 20,
+          "points": null,
+          "needed": "対象作業の再現性・例外・手動確認の工数"
+        },
+        {
+          "name": "初期費用",
+          "max_points": 15,
+          "points": null,
+          "needed": "試作と導入に必要な費用・時間"
+        },
+        {
+          "name": "継続性",
+          "max_points": 10,
+          "points": null,
+          "needed": "利用頻度と再購入・継続利用の記録"
+        }
+      ],
+      "experiment": [
+        "1–2日目：動画やSNSの制作者に現状の作業、頻度、代替手段を聞く。",
+        "3–4日目：既存の収益導線を見直す診断シートを下書きし、試作時間と提供原価を見積もる。",
+        "5–6日目：承認後、聞き取り協力者に試案と仮価格を提示し、回答と有償申込数を記録する。",
+        "7日目：提示人数、回答、申込、実費、作業時間を集計し、継続判断を記録する。"
+      ]
+    },
+    {
+      "id": "migration",
+      "name": "デジタル商品の販路移行",
+      "research_priority": 2,
+      "evidence": [
+        {
+          "title": "ArtStation Marketplace が12月18日に終了！デジタル商品の販売は Gumroad に移行へ - CGinterest",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1POGpDdUpBSmNvVXl4WERTcEY5VlZTTURXZ0xLdHNLbkFxU2VlcEt3MEI5aFdGcnllbWEzVmx3bHF4UXVYQXkzMm15RkNfOGpmTnJDV1BBcVlWdjlqX2hjTXRaLXIzUXJKN1puN2pXYkVZQVE?oc=5",
+          "published": "2026-11-18T22:06:00+00:00",
+          "relevance": [
+            "artstation",
+            "終了"
+          ],
+          "score": 2,
+          "reason": "導入事例・提供・制度変更への言及"
+        }
+      ],
+      "opportunity_score": null,
+      "dimensions": [
+        {
+          "name": "需要",
+          "max_points": 30,
+          "points": null,
+          "needed": "対象顧客への聞き取りと有償申込"
+        },
+        {
+          "name": "収益性",
+          "max_points": 25,
+          "points": null,
+          "needed": "提示価格と提供にかかる原価・工数"
+        },
+        {
+          "name": "自動化適性",
+          "max_points": 20,
+          "points": null,
+          "needed": "対象作業の再現性・例外・手動確認の工数"
+        },
+        {
+          "name": "初期費用",
+          "max_points": 15,
+          "points": null,
+          "needed": "試作と導入に必要な費用・時間"
+        },
+        {
+          "name": "継続性",
+          "max_points": 10,
+          "points": null,
+          "needed": "利用頻度と再購入・継続利用の記録"
+        }
+      ],
+      "experiment": [
+        "1–2日目：デジタル素材の出品者に現状の作業、頻度、代替手段を聞く。",
+        "3–4日目：商品情報と販売リンクの移行チェックリストを下書きし、試作時間と提供原価を見積もる。",
+        "5–6日目：承認後、聞き取り協力者に試案と仮価格を提示し、回答と有償申込数を記録する。",
+        "7日目：提示人数、回答、申込、実費、作業時間を集計し、継続判断を記録する。"
+      ]
+    }
+  ]
+}

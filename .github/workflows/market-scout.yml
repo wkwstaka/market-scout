@@ -1,31 +1,90 @@
-
-name: Daily market evidence collection
+name: Market Scout
 
 on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
   workflow_dispatch:
   schedule:
     - cron: '15 22 * * *'
 
-permissions:
-  contents: write
+permissions: {}
+
+concurrency:
+  group: market-scout-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
-  collect:
+  build:
     runs-on: ubuntu-latest
+    timeout-minutes: 8
+    permissions:
+      contents: read
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Collect market evidence
-        run: python market_scout_v07_iphone/scout.py
-      - name: Commit updated research
+      - name: Run regression tests
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add market_scout_v07_iphone/data/research.json
+          python -m unittest discover -s market_scout_v07_iphone -v
+          node --check market_scout_v07_iphone/dashboard.js
+      - name: Refresh public RSS
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: python market_scout_v07_iphone/scout.py
+      - name: Build report and site
+        run: |
+          python market_scout_v07_iphone/analyze.py
+          mkdir -p _site/market_scout_v07_iphone/data
+          cp market_scout_v07_iphone/index.html market_scout_v07_iphone/dashboard.js _site/market_scout_v07_iphone/
+          cp market_scout_v07_iphone/data/{research,opportunities}.json _site/market_scout_v07_iphone/data/
+          cp index.html _site/
+      - uses: actions/upload-pages-artifact@v4
+        if: github.ref == 'refs/heads/main'
+        with:
+          path: _site
+      - uses: actions/upload-artifact@v4
+        if: github.ref == 'refs/heads/main' && (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch')
+        with:
+          name: research-snapshot
+          path: market_scout_v07_iphone/data/*.json
+          retention-days: 1
+
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.pages.outputs.page_url }}
+    steps:
+      - id: pages
+        uses: actions/deploy-pages@v4
+
+  archive:
+    if: github.ref == 'refs/heads/main' && (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch')
+    needs: deploy
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: research-snapshot
+          path: market_scout_v07_iphone/data
+      - name: Archive published snapshot
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add market_scout_v07_iphone/data/{research,opportunities}.json
           if ! git diff --cached --quiet; then
-            git commit -m "Update market research data"
-            git push
+            git commit -m 'Archive published market research'
+            git push origin HEAD:main
           fi
-      
