@@ -1,6 +1,6 @@
 {
   "schema_version": "0.8",
-  "collected_at": "2026-11-18T23:07:47.552223+00:00",
+  "collected_at": "2026-11-19T23:00:01.600557+00:00",
   "feed_status": [
     {
       "feed": "Google News / AI automation",
@@ -24,10 +24,10 @@
     }
   ],
   "counts": {
-    "total": 50,
-    "matched": 23,
-    "excluded": 27,
-    "duplicates": 0
+    "total": 67,
+    "matched": 27,
+    "excluded": 39,
+    "duplicates": 1
   },
   "top_five": [
     {
@@ -273,8 +273,8 @@
       "research_priority": 2,
       "evidence": [
         {
-          "title": "TikTok Shopクリエイターの成長と収益化を支援するコミュニティ「PLAN-B CAP」、2026年11月より新規参加者を募集 - PR TIMES",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IUzd3elk2VWRUV3FlZmd1a0VFaGJybXdjVTNuNjhLRjlfQkt1VUZvWjQ5LU9aaE5RZ1lJV3hsMGdVLWRhd1NJU2l0RVlHTllKVzJ4dlN5b2pLOW01R0EyZVhXbnBjNnNCbUE?oc=5",
+          "title": "TikTok Shopクリエイターの成長と収益化を支援するコミュニティ「PLAN-B CAP」、2026年11月より新規参加者を募集 - 愛媛新聞",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYWFhFVlVWODR1WXNnX2xvUW9uU2pzTW9sVk43cHpFeFBrZlg0TC1qRnlIZVh0eFJ5QVBFbnpJejNDdlAtVEVlN1FtRDdWaDhmRFRuQnZtVm1sbXht?oc=5",
           "published": "2026-11-02T08:00:00+00:00",
           "relevance": [
             "tiktok",

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.7",
-  "generated_at": "2026-11-18T23:07:47.552223+00:00",
+  "generated_at": "2026-11-19T23:00:01.600557+00:00",
   "disclaimer": "News headlines are discovery leads, not validated customer demand or verified primary sources. No AI analysis or revenue automation has run.",
   "feed_status": [
     {
@@ -25,6 +25,193 @@
     }
   ],
   "items": [
+    {
+      "id": "3904cdde18c87036",
+      "topic": "Google News / AI automation",
+      "title": "新規事業・営業支援を展開する株式会社NSJAPANとAI・業務自動化支援を提供するCREATREE合同会社が資本提携を締結 - STARTUP LOG",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LTmZGOGUxelM5bktlQ2RRZW01ZXR6anhJZ1JYeDI2MnBTZkpjcjltNmNUOEFya0NEMTlGdVlhS2RRRW9RZnBiSmNvcTE2QWs?oc=5",
+      "published": "2026-11-19T02:28:20+00:00",
+      "summary": "新規事業・営業支援を展開する株式会社NSJAPANとAI・業務自動化支援を提供するCREATREE合同会社が資本提携を締結 &nbsp;&nbsp; STARTUP LOG",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-19T23:00:01.600557+00:00"
+    },
+    {
+      "id": "717f16a051c0ea57",
+      "topic": "Google News / AI automation",
+      "title": "AIに任せない意思決定の重要性、一流CIOが明かす「業務自動化の落とし穴」 - Forbes JAPAN",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VUG11cmZXWWE2c1gwRDdXRlBlWW1idVFhZFFTSjA2S1poQTlpYnVEcHhFeV9pRGhDUFE5aElmRWhaYTlIeUJoS1JtZ3d6NmRBSldLNXFWZ1NvUQ?oc=5",
+      "published": "2026-11-16T05:00:00+00:00",
+      "summary": "AIに任せない意思決定の重要性、一流CIOが明かす「業務自動化の落とし穴」 &nbsp;&nbsp; Forbes JAPAN",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-19T23:00:01.600557+00:00"
+    },
+    {
+      "id": "c164b1e5487668b2",
+      "topic": "Google News / AI automation",
+      "title": "自治体DXの現場で高まるAI活用ニーズを確認 - アットプレス",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yMXJuYjJiZHBIVVZJMlZqM250ODNBeE4zeVhFTmVqWTNPX2c3cTR2MFI5bVNJcnptMVdmWkRsRmMwUUV0V3B2NzRnc0c4UkU?oc=5",
+      "published": "2026-11-16T06:40:00+00:00",
+      "summary": "自治体DXの現場で高まるAI活用ニーズを確認 &nbsp;&nbsp; アットプレス",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-19T23:00:01.600557+00:00"
+    },
+    {
+      "id": "9ede645670f9dfed",
+      "topic": "Google News / AI automation",
+      "title": "セカンドサイトアナリティカ、ＳＢＩ証券にＡＩ業務自動化基盤を提供、複数業務で実運用 - kabu-ir.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SaUtLTE9WcFNGaFllS1cwa2NRRHBHQnNiWS1BR2o0aGhNS2dIQmhESkxlNF9SV3NTeURPZkRVTzhTTXc0Q1Z5VzVPcHdXMWx1anRxTA?oc=5",
+      "published": "2026-11-10T00:11:54+00:00",
+      "summary": "セカンドサイトアナリティカ、ＳＢＩ証券にＡＩ業務自動化基盤を提供、複数業務で実運用 &nbsp;&nbsp; kabu-ir.com",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-19T23:00:01.600557+00:00"
+    },
+    {
+      "id": "19578fe74c8b7195",
+      "topic": "Google News / AI automation",
+      "title": "AIを「使う」から、AIと「働く」へ。自社で動かすAIエージェントによる業務自動化の実践セミナー - 北九州学術研究都市",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41V1lnV1p0N21TOG95ODlva3lELWVtRDluMHhsZ2IycXRCdWxrclZxTTdvSG5IbDEtRFU4dmJaWU54TDZ1ZC14dVQ5N1BuMExzb3VjN3pDdVJLNVJs?oc=5",
+      "published": "2026-10-05T07:00:00+00:00",
+      "summary": "AIを「使う」から、AIと「働く」へ。自社で動かすAIエージェントによる業務自動化の実践セミナー &nbsp;&nbsp; 北九州学術研究都市",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-19T23:00:01.600557+00:00"
+    },
+    {
+      "id": "bb9378182949e245",
+      "topic": "Google News / AI automation",
+      "title": "東京エレクトロンが進める、3段階での業務自動化とは | TECH+（テックプラス） - マイナビニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SLWxOR1duNnpKRVp3eGlmWV9wTUM1cHUxU0xRamtSQndjM3F4Q2JZWEpiM1VkRGtZLTQwaC1RTGdodmQyaElITC12ZElKYWoxU2Zua2ZpUHJ0NDdTVXJfa2tkQkNsWDZN?oc=5",
+      "published": "2026-11-09T08:00:00+00:00",
+      "summary": "東京エレクトロンが進める、3段階での業務自動化とは | TECH+（テックプラス） &nbsp;&nbsp; マイナビニュース",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-19T23:00:01.600557+00:00"
+    },
+    {
+      "id": "92619a758cf49a6b",
+      "topic": "Google News / AI automation",
+      "title": "SBI証券、現場担当者がAIで業務を自動化！ 専門知識に頼らない新たな業務改革を推進 - DXマガジン",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QNjg1N1E1QUo3emF1elFxVnBmOHc3RnNpZ0MyRVNMNnUwNE04aUVGanp5S1J6b3BPOHFDS292SVdpUjNfMUphYktfaWVXaXp3TGc?oc=5",
+      "published": "2026-11-11T08:00:00+00:00",
+      "summary": "SBI証券、現場担当者がAIで業務を自動化！ 専門知識に頼らない新たな業務改革を推進 &nbsp;&nbsp; DXマガジン",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-19T23:00:01.600557+00:00"
+    },
+    {
+      "id": "dcfccc99d643af2d",
+      "topic": "Google News / AI automation",
+      "title": "NSJAPANとCREATREEが資本提携。集客から商談・AI業務改善までつなぎ、企業の個別委託による連携負担の軽減へ - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GWWNPSFAwRXdCS0RjaVJzSUJoeUNOSnpqZmZUbHlQb1Vad01TT0Z5TGFNYWF6NGZmMWZnQUFCZmtWUjJ0YVlVR0xRZ1FxQVdneERrT2Z4NkNsY285amk4TEJkQXprTnVOZDdUUEhZclVCOEk?oc=5",
+      "published": "2026-11-19T02:45:24+00:00",
+      "summary": "NSJAPANとCREATREEが資本提携。集客から商談・AI業務改善までつなぎ、企業の個別委託による連携負担の軽減へ &nbsp;&nbsp; ニコニコニュース",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-19T23:00:01.600557+00:00"
+    },
+    {
+      "id": "e64109fc8d822312",
+      "topic": "Google News / AI automation",
+      "title": "ブループリズム、業務フロー全体を自動化 既存AI・RPA活用 - ニッキンONLINE",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yNy1NbmZlRnJSZG9VM05EQVlPYVB2V2VTQ05qbGFBb3kyU0hNUFk1amJMa0JXOTZXeWMtaDg0N3FmVmx5a21ldzdMYkpOa3c3aEVSa293?oc=5",
+      "published": "2026-11-11T20:15:00+00:00",
+      "summary": "ブループリズム、業務フロー全体を自動化 既存AI・RPA活用 &nbsp;&nbsp; ニッキンONLINE",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-19T23:00:01.600557+00:00"
+    },
+    {
+      "id": "eb6489e531b5fb31",
+      "topic": "Google News / digital products",
+      "title": "≪対象者限定≫令和8年度【25％プレミアム付き「ふれあい商品券」】追加販売のご案内 - 淡路市商工会",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfSkhVeF9qdTBuZEU5d2ZRamF3dFJvUkppalBSQkdmSi0yc21lYVNRVUhaWk5KT20tNWNuZHZyRG15eEpONDNBc0dtUEFHdUY1Znk0LWpOaXZEaFlQMGg3Q0lYRW52WUhVQWlnQ2Q1NA?oc=5",
+      "published": "2026-11-19T01:09:21+00:00",
+      "summary": "≪対象者限定≫令和8年度【25％プレミアム付き「ふれあい商品券」】追加販売のご案内 &nbsp;&nbsp; 淡路市商工会",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-19T23:00:01.600557+00:00"
+    },
+    {
+      "id": "8874bac759c6ff50",
+      "topic": "Google News / digital products",
+      "title": "墨田区内で使えるデジタル商品券 年末ニーズに合わせて2次販売 - すみだ経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPcWZyQS02bTVOUEJXRjhXM24zcWZVYW4yX1ZyYWNweFgyaTlLNUJ5RExBLVJIR3dPXzFGd1I3QmYyTWtoelIzcVQtTm0za2RLUlE?oc=5",
+      "published": "2026-11-16T09:51:58+00:00",
+      "summary": "墨田区内で使えるデジタル商品券 年末ニーズに合わせて2次販売 &nbsp;&nbsp; すみだ経済新聞",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-19T23:00:01.600557+00:00"
+    },
+    {
+      "id": "d61a6005012a65e1",
+      "topic": "Google News / creator economy",
+      "title": "SNSでニュースを知る時代、 ニュース系クリエイター が収益化に苦戦する理由 - DIGIDAY［日本版］",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFpLNDlka2E1LVUwOWpfLWlpajQ5NkFHamdfOVJmOE9iaHFQUGVUU2dWYmo4cXk5TGdUM1NqUjRTSVpLODVRMEx0dWxsU0Y4M1ZFVUc2MzBqdjkwc2ZGRDRMRTZKdWVrNlpsUk92SmxiVjdOVmVqN190UzFQNWZ1Q1JfbEVkRk5RMFN2V1RxNFNYMGJCcVlmZ1g0VExNaUY1endmLThpcF9oQjA0eVhvSnk4ZlBjUzFURzgya0xR?oc=5",
+      "published": "2026-11-10T00:00:54+00:00",
+      "summary": "SNSでニュースを知る時代、 ニュース系クリエイター が収益化に苦戦する理由 &nbsp;&nbsp; DIGIDAY［日本版］",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-19T23:00:01.600557+00:00"
+    },
+    {
+      "id": "c73954ee1d8f80b3",
+      "topic": "Google News / creator economy",
+      "title": "SNSでニュースを知る時代、 ニュース系クリエイター が収益化に苦戦する理由 (DIGIDAY［日本版］) - NewsPicks",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BOXRxSHEtQWREU0U0ZHQ0S21XVmVVcUNDODRqUlRPTE9vUXZjcVo2QVNGUDFXVnExc01QMWFGNThrdDg0N1BLaVpfQ2VUYTFSNGN5cG9aSnZUTWJxUVBtYVlpcXBURGc?oc=5",
+      "published": "2026-11-10T00:00:54+00:00",
+      "summary": "SNSでニュースを知る時代、 ニュース系クリエイター が収益化に苦戦する理由 (DIGIDAY［日本版］) &nbsp;&nbsp; NewsPicks",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-19T23:00:01.600557+00:00"
+    },
+    {
+      "id": "3bd9e94e9c12f72e",
+      "topic": "Google News / creator economy",
+      "title": "Xの収益分配プログラムが9月7日をもって終了へ。新たな収益化制度「Original Content Rewards Program」を発表 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Xd3dKVnVybjZIMXBwM0JDWlB6MmRCVEtnaEVOUExNajFJdGt4dFNzMk1rRFJoc0llZEIyQk9VeWVLRVJpbklES2FlTmFRSE43WC1Qdm9qb0N6N1J0d25kYUpDWWgyR01WMHE1Uk01b2l3WlJUdTdMc1hjVTlEX00?oc=5",
+      "published": "2026-08-09T07:00:00+00:00",
+      "summary": "Xの収益分配プログラムが9月7日をもって終了へ。新たな収益化制度「Original Content Rewards Program」を発表 &nbsp;&nbsp; Yahoo!ニュース",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-19T23:00:01.600557+00:00"
+    },
+    {
+      "id": "68cc9a22b1016b1b",
+      "topic": "Google News / creator economy",
+      "title": "TikTok Shopクリエイターの成長と収益化を支援するコミュニティ「PLAN-B CAP」、2026年11月より新規参加者を募集 - 愛媛新聞",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYWFhFVlVWODR1WXNnX2xvUW9uU2pzTW9sVk43cHpFeFBrZlg0TC1qRnlIZVh0eFJ5QVBFbnpJejNDdlAtVEVlN1FtRDdWaDhmRFRuQnZtVm1sbXht?oc=5",
+      "published": "2026-11-02T08:00:00+00:00",
+      "summary": "TikTok Shopクリエイターの成長と収益化を支援するコミュニティ「PLAN-B CAP」、2026年11月より新規参加者を募集 &nbsp;&nbsp; 愛媛新聞",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-19T23:00:01.600557+00:00"
+    },
+    {
+      "id": "52343247c229aa62",
+      "topic": "Google News / creator economy",
+      "title": "Anara：2026年に収益化を目指すクリエイターのための洗練されたデジタルストア - quasa.io",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeVhIaGJRLWFqT3BQMWdkUmdkdUp4ZjFiSWZYajZ3bmFlR1BrZmhkaVRnX2VibDBQYnp5Q0VaSmFxTUxfSk81eTVfUEtiM2JzWDlPWHJ5VGgzanBDMnNQWmczcUJwV3dnRTU1c2tleFBqemZLbnBkazJPQVpxUlhlSjBIQnRaWC04aVNVcTFIc214RDNRdHh4ZTZJRktZek9lS2xMNVVOZ3RjNHU2bVE?oc=5",
+      "published": "2026-11-03T08:00:00+00:00",
+      "summary": "Anara：2026年に収益化を目指すクリエイターのための洗練されたデジタルストア &nbsp;&nbsp; quasa.io",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-19T23:00:01.600557+00:00"
+    },
+    {
+      "id": "1893db6f16d91e8c",
+      "topic": "Google News / creator economy",
+      "title": "YouTube、収益化参加基準を引き上げ 365日間で8000時間再生など - Impress Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GOTlkM3FvcE5UT3BJWnhXUnl2a1RrdGVWN0hTZVh3b0VfU2JsMk5vWVBMNlZBX0tYenVON0JYN2VqNk9LelRLQVAyYmlVYnhfMUxpaG9JZmttX3gwSlhqT0JOZzk?oc=5",
+      "published": "2026-08-11T07:00:00+00:00",
+      "summary": "YouTube、収益化参加基準を引き上げ 365日間で8000時間再生など &nbsp;&nbsp; Impress Watch",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-19T23:00:01.600557+00:00"
+    },
     {
       "id": "32e8bec59cf8cd85",
       "topic": "Google News / AI automation",
@@ -63,7 +250,7 @@
       "topic": "Google News / AI automation",
       "title": "Allganize Holdings上場会見、AI業務自動化を日米韓で展開 SaaSとオンプレミスの同時提供が強み - ログミーFinance",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4TmZrVVQ0MGZ6eDZwTFhvb3VnMXFBV1VPQUw5aU9kRXYtM3VvUGJRRGlmcFRzM1ZWeG1qOThzT3VRc1BvOXFnRllHZjlKNVBuY3c?oc=5",
-      "published": "2026-11-05T09:00:02+00:00",
+      "published": "2026-11-05T08:00:00+00:00",
       "summary": "Allganize Holdings上場会見、AI業務自動化を日米韓で展開 SaaSとオンプレミスの同時提供が強み &nbsp;&nbsp; ログミーFinance",
       "source_type": "news_aggregation",
       "verification": "unverified",
@@ -184,7 +371,7 @@
       "topic": "Google News / digital products",
       "title": "【令和8年12月1日販売開始】昭島市プレミアム付デジタル商品券を販売｜昭島市公式ホームページ - 昭島市公式ホームページ",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CREZ2TjY4V3ktblFiTHNqRzRKbjE3aVk1UTJQTDZPLV9uemZOLU1PaE1ERDFuQmtoSjZtSWYyZUVqUEJjbWNDUW10b01TemxmekJwTHZCaFRxLUJPeFFHNVk2LTUzdUZRcmxkbUIzZmI?oc=5",
-      "published": "2026-11-17T21:13:56+00:00",
+      "published": "2026-11-17T08:00:00+00:00",
       "summary": "【令和8年12月1日販売開始】昭島市プレミアム付デジタル商品券を販売｜昭島市公式ホームページ &nbsp;&nbsp; 昭島市公式ホームページ",
       "source_type": "news_aggregation",
       "verification": "unverified",
@@ -195,7 +382,7 @@
       "topic": "Google News / digital products",
       "title": "豊後大野市プレミアム付デジタル商品券の２次販売を行います！ - 豊後大野市",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vT2NGbDdfWXVmQk1ZY3BtTUZEYW9PQnN0Tjl6N0VrMGFJTWdyZE03Tmk4ZTZ5ODg2MURveXM2NUt4Ml9fMUxaZFdxSXNEcVozcXMtZDVJT3A2dE42?oc=5",
-      "published": "2026-11-04T08:00:00+00:00",
+      "published": "2026-11-12T08:00:00+00:00",
       "summary": "豊後大野市プレミアム付デジタル商品券の２次販売を行います！ &nbsp;&nbsp; 豊後大野市",
       "source_type": "news_aggregation",
       "verification": "unverified",
@@ -512,10 +699,10 @@
     {
       "id": "edc97efc15805db7",
       "topic": "Google News / creator economy",
-      "title": "YouTube パートナー プログラムの新しい収益機会と変更点 - blog.youtube",
+      "title": "YouTube パートナー プログラムの新しい収益機会と変更点 - YouTube Official Blog",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb3poTWFmMHJkTVNfTFU5WXctRHQtcHVxV1pNcndVWmVMbTFJNTV0ZDRoVVRTcEhJSnRJVmlWNWdtc3dPTXNETWUyRVVVRmlSeVdkMThfb2dvR1JmMmNSQk4wNXNPeG9XdW9Eb1FlbWJGbHR5a1l2YU9OTG1LSUhOOENLZHR1WnRScERrOXNhOHNyMFpubjBmcGVxRTRVZm81Z0lreU1UcmhneEFs?oc=5",
       "published": "2026-08-11T07:00:00+00:00",
-      "summary": "YouTube パートナー プログラムの新しい収益機会と変更点 &nbsp;&nbsp; blog.youtube",
+      "summary": "YouTube パートナー プログラムの新しい収益機会と変更点 &nbsp;&nbsp; YouTube Official Blog",
       "source_type": "news_aggregation",
       "verification": "unverified",
       "first_seen": "2026-11-18T22:13:08.067310+00:00"
