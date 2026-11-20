@@ -1,6 +1,6 @@
 {
   "schema_version": "0.7",
-  "generated_at": "2026-11-19T23:00:01.600557+00:00",
+  "generated_at": "2026-11-20T22:59:57.030298+00:00",
   "disclaimer": "News headlines are discovery leads, not validated customer demand or verified primary sources. No AI analysis or revenue automation has run.",
   "feed_status": [
     {
@@ -25,6 +25,61 @@
     }
   ],
   "items": [
+    {
+      "id": "7a9c449b9e0b8be3",
+      "topic": "Google News / AI automation",
+      "title": "生成AIを活用した査定業務自動化システム、ニッセイプラス少短が引受査定への業務適用をスタート - 財経新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05Und3NjQ2cjZMZWlEZTJEcVZfOFFIY3kyVmRkWTROYmM5b3k1dUM2YS1VOG16eVJSTmk2RkFyWmNvUjRnenRDRVVva0RyZmJTMHFIMg?oc=5",
+      "published": "2026-11-19T05:17:12+00:00",
+      "summary": "生成AIを活用した査定業務自動化システム、ニッセイプラス少短が引受査定への業務適用をスタート &nbsp;&nbsp; 財経新聞",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-20T22:59:57.030298+00:00"
+    },
+    {
+      "id": "4f7932bbc5199cd9",
+      "topic": "Google News / AI automation",
+      "title": "Ｆｉｎａｔｅｘｔホールディングス[4419]：生成AIを活用した査定業務自動化システム、ニッセイプラス少短が引受査定への業務適用をスタート 2026年11月4日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JLW5tN0pqNXhIVWRJVmxmTXBTVlJnRzl6aWlIUGNXYTRxbkxkaWZZYkxRRW5jcGd6VnFBNWRka1dSYWN5OXFvMWc5bU1GQWpzcS1KY2N2eUFQMWlpcDVvaHdnMHdZVWdldFE?oc=5",
+      "published": "2026-11-04T08:00:00+00:00",
+      "summary": "Ｆｉｎａｔｅｘｔホールディングス[4419]：生成AIを活用した査定業務自動化システム、ニッセイプラス少短が引受査定への業務適用をスタート 2026年11月4日(適時開示) ：日経会社情報DIGITAL &nbsp;&nbsp; 日本経済新聞",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-20T22:59:57.030298+00:00"
+    },
+    {
+      "id": "0af98196b891fadb",
+      "topic": "Google News / AI automation",
+      "title": "中国銀行が単純業務自動化からリサーチ加速化、複雑な課題遂行のためのシステム構築まで人工知能(AI)を業務に本格的に活用している。 ただ、莫大な費用と破片化されたデータ、サイバーセキュリティの脅威が変数.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83M1o4NmFyaVRGek00S0djR2NOeUFGMXNwS3NaeTc5T2JrdlhqM01GUWZ1WGZkMkZXZlJKa1E1ZUxwQmJvZVpTMDVudm9VNEk?oc=5",
+      "published": "2026-11-12T01:40:46+00:00",
+      "summary": "中国銀行が単純業務自動化からリサーチ加速化、複雑な課題遂行のためのシステム構築まで人工知能(AI)を業務に本格的に活用している。 ただ、莫大な費用と破片化されたデータ、サイバーセキュリティの脅威が変数.. &nbsp;&nbsp; 매일경제",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-20T22:59:57.030298+00:00"
+    },
+    {
+      "id": "f9184b10b83325f8",
+      "topic": "Google News / digital products",
+      "title": "デジタルコンテンツから価値を生み出す - パート1：デジタルコンテンツから生計を立てる - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT2NpTmk3LXZZc2RKaFpPbWZVaVBhNUxSM0VqVUp4V2l3blpnYzBMODBha045TFZXSXhHS1V5QlRWdU1IajNFUmpfRHFvRHdSaklCZlp6eTdBZy1OazZxWGptRC1rcGg5Z1JvX3JjMWNLQTdzN09tM1ZmTjlqcXdPVW95SUF4aHdRdkxuclBR?oc=5",
+      "published": "2026-11-18T02:21:13+00:00",
+      "summary": "デジタルコンテンツから価値を生み出す - パート1：デジタルコンテンツから生計を立てる &nbsp;&nbsp; Vietnam.vn",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-20T22:59:57.030298+00:00"
+    },
+    {
+      "id": "972e7f8a177df133",
+      "topic": "Google News / digital products",
+      "title": "新潟市デジタル商品券 残り60万口の「3次販売」は丸1日で上限到達 15日に受付終了 - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wTWV0U3dxTzBxU1Q2YmlpMlRjbWhLU016NFZrQUFDLVlOTm1lUjBiV0htcy1MbmR6UEJDc2ZQWVlsZVdUTC10SkhYQjA4T0VRTklwbDY3dUthczgyekVqX3NaaklOME0?oc=5",
+      "published": "2026-09-15T07:00:00+00:00",
+      "summary": "新潟市デジタル商品券 残り60万口の「3次販売」は丸1日で上限到達 15日に受付終了 &nbsp;&nbsp; TBS NEWS DIG",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-20T22:59:57.030298+00:00"
+    },
     {
       "id": "3904cdde18c87036",
       "topic": "Google News / AI automation",
@@ -448,7 +503,7 @@
       "topic": "Google News / digital products",
       "title": "スクラム高槻「地元のお店応援券」第8弾について - 高槻市ホームページ",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CQnZYQmRaYnlncmc3NEh0VW53Zzl0UEM0Y0NNdjhkbUVnajYwUy12WGVWamxfSXkxMEQ0VkV6M2gtMUY4dm5kSVdoWXU2QW5ibmZVZ29wdWR2ZWRaOGdQR2tueXlJd1FHSlE?oc=5",
-      "published": "2026-10-29T07:00:00+00:00",
+      "published": "2026-11-20T08:33:20+00:00",
       "summary": "スクラム高槻「地元のお店応援券」第8弾について &nbsp;&nbsp; 高槻市ホームページ",
       "source_type": "news_aggregation",
       "verification": "unverified",
@@ -699,10 +754,10 @@
     {
       "id": "edc97efc15805db7",
       "topic": "Google News / creator economy",
-      "title": "YouTube パートナー プログラムの新しい収益機会と変更点 - YouTube Official Blog",
+      "title": "YouTube パートナー プログラムの新しい収益機会と変更点 - blog.youtube",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb3poTWFmMHJkTVNfTFU5WXctRHQtcHVxV1pNcndVWmVMbTFJNTV0ZDRoVVRTcEhJSnRJVmlWNWdtc3dPTXNETWUyRVVVRmlSeVdkMThfb2dvR1JmMmNSQk4wNXNPeG9XdW9Eb1FlbWJGbHR5a1l2YU9OTG1LSUhOOENLZHR1WnRScERrOXNhOHNyMFpubjBmcGVxRTRVZm81Z0lreU1UcmhneEFs?oc=5",
       "published": "2026-08-11T07:00:00+00:00",
-      "summary": "YouTube パートナー プログラムの新しい収益機会と変更点 &nbsp;&nbsp; YouTube Official Blog",
+      "summary": "YouTube パートナー プログラムの新しい収益機会と変更点 &nbsp;&nbsp; blog.youtube",
       "source_type": "news_aggregation",
       "verification": "unverified",
       "first_seen": "2026-11-18T22:13:08.067310+00:00"
