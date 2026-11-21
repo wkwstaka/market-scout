@@ -1,6 +1,6 @@
 {
   "schema_version": "0.7",
-  "generated_at": "2026-11-20T22:59:57.030298+00:00",
+  "generated_at": "2026-11-21T22:54:49.576848+00:00",
   "disclaimer": "News headlines are discovery leads, not validated customer demand or verified primary sources. No AI analysis or revenue automation has run.",
   "feed_status": [
     {
@@ -25,6 +25,39 @@
     }
   ],
   "items": [
+    {
+      "id": "dc690d654d557821",
+      "topic": "Google News / AI automation",
+      "title": "知財業務自動化SaaS提供の子会社Genzo AIを設立 当社知的財産部の独自開発プラットフォームを4月から社外へ提供 - 島津製作所",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UeTBRNkR6M0dLMnR6MkwxUC1SbTJfTHQ5c1BEX2lnYVJzdEdYQU4zMHd2ZFpFSm9KSS1relQ1UWpJdms0Qm1aOG83M20zVnR6bTdHTEl3djVRRjNPMUZtRGFmbDBLekFxYkE?oc=5",
+      "published": "2026-03-25T07:00:00+00:00",
+      "summary": "知財業務自動化SaaS提供の子会社Genzo AIを設立 当社知的財産部の独自開発プラットフォームを4月から社外へ提供 &nbsp;&nbsp; 島津製作所",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-21T22:54:49.576848+00:00"
+    },
+    {
+      "id": "33626e29dd9c799e",
+      "topic": "Google News / AI automation",
+      "title": "第10回 AI・業務自動化展 【秋】 出展情報 | 富士フイルムビジネスイノベーション - Fujifilm [Global]",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LVm9heWNWanFoOHIyX1hyT29OWjVPVmpsaTZQMW9NaF9zRjJtcEc2M2pucVI1MnJwc0JoSkRKclp5VTJQcHQwZE5salpzQWc4V1Y4?oc=5",
+      "published": "2026-10-06T07:00:00+00:00",
+      "summary": "第10回 AI・業務自動化展 【秋】 出展情報 | 富士フイルムビジネスイノベーション &nbsp;&nbsp; Fujifilm [Global]",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-21T22:54:49.576848+00:00"
+    },
+    {
+      "id": "2a482fc60640bb43",
+      "topic": "Google News / digital products",
+      "title": "【ご利用いただきありがとうございました】 あかしタコPay50（明石市プレミアム付きデジタル商品券）について - 明石市",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmMGNFVzZ0anpFM1VfUW5lVGppbXgwWFlGOE9RZW9sZ3VxVmtmOHlCc0oyelA5SV9EOGk2LVBQM2Q1cUZrNWlqNllGekVMNlI1Rms4YUpJdTFDelptcEdnRUlCeHR2b0xkWElMd3B6akw3cE9YQ2Nv?oc=5",
+      "published": "2026-07-02T07:00:00+00:00",
+      "summary": "【ご利用いただきありがとうございました】 あかしタコPay50（明石市プレミアム付きデジタル商品券）について &nbsp;&nbsp; 明石市",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-21T22:54:49.576848+00:00"
+    },
     {
       "id": "7a9c449b9e0b8be3",
       "topic": "Google News / AI automation",
@@ -503,7 +536,7 @@
       "topic": "Google News / digital products",
       "title": "スクラム高槻「地元のお店応援券」第8弾について - 高槻市ホームページ",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CQnZYQmRaYnlncmc3NEh0VW53Zzl0UEM0Y0NNdjhkbUVnajYwUy12WGVWamxfSXkxMEQ0VkV6M2gtMUY4dm5kSVdoWXU2QW5ibmZVZ29wdWR2ZWRaOGdQR2tueXlJd1FHSlE?oc=5",
-      "published": "2026-11-20T08:33:20+00:00",
+      "published": "2026-11-20T08:00:00+00:00",
       "summary": "スクラム高槻「地元のお店応援券」第8弾について &nbsp;&nbsp; 高槻市ホームページ",
       "source_type": "news_aggregation",
       "verification": "unverified",
