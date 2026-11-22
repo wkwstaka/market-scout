@@ -1,6 +1,6 @@
 {
   "schema_version": "0.7",
-  "generated_at": "2026-11-21T22:54:49.576848+00:00",
+  "generated_at": "2026-11-22T22:56:54.652687+00:00",
   "disclaimer": "News headlines are discovery leads, not validated customer demand or verified primary sources. No AI analysis or revenue automation has run.",
   "feed_status": [
     {
@@ -25,6 +25,17 @@
     }
   ],
   "items": [
+    {
+      "id": "2d00853de1939d8a",
+      "topic": "Google News / AI automation",
+      "title": "【生成AI業務調査】92.3%が自動化したい業務あり／80.0%がAI処理後の人の確認・承認を希望 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nRGswOFZPNjZVeHlQNVdhUU84R0c5SlpqTlNUSXdvOFNCZ3E5OVNGNjY5WWNkLUtGazdLTXIwaER3d01yTXlLNHRyck1FZmdacWY1cWp1d2IzV09JbFphdW5FcndwNGRsTGc?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "summary": "【生成AI業務調査】92.3%が自動化したい業務あり／80.0%がAI処理後の人の確認・承認を希望 &nbsp;&nbsp; PR TIMES",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-22T22:56:54.652687+00:00"
+    },
     {
       "id": "dc690d654d557821",
       "topic": "Google News / AI automation",

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.8",
-  "collected_at": "2026-11-21T22:54:49.576848+00:00",
+  "collected_at": "2026-11-22T22:56:54.652687+00:00",
   "feed_status": [
     {
       "feed": "Google News / AI automation",
@@ -24,9 +24,9 @@
     }
   ],
   "counts": {
-    "total": 75,
+    "total": 76,
     "matched": 27,
-    "excluded": 47,
+    "excluded": 48,
     "duplicates": 1
   },
   "top_five": [
