@@ -1,6 +1,6 @@
 {
   "schema_version": "0.7",
-  "generated_at": "2026-11-22T22:56:54.652687+00:00",
+  "generated_at": "2026-11-23T23:07:03.929238+00:00",
   "disclaimer": "News headlines are discovery leads, not validated customer demand or verified primary sources. No AI analysis or revenue automation has run.",
   "feed_status": [
     {
@@ -25,6 +25,138 @@
     }
   ],
   "items": [
+    {
+      "id": "c0752958d8e29036",
+      "topic": "Google News / AI automation",
+      "title": "大塚商会、バイブコーディングによる業務自動化システムの短期開発SIを提供 - IT Leaders",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MUUIwZkkxZXBlODhHWWlHcEM1VXVfWUk0dWZLLWw0azR3N1FJWmFndDUxRW1iaU04TWRXOHdkVUp2Ul9fT2R4YWdlanFpME1uXzJN?oc=5",
+      "published": "2026-07-24T07:00:00+00:00",
+      "summary": "大塚商会、バイブコーディングによる業務自動化システムの短期開発SIを提供 &nbsp;&nbsp; IT Leaders",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-23T23:07:03.929238+00:00"
+    },
+    {
+      "id": "3f8b8e70f26e327a",
+      "topic": "Google News / digital products",
+      "title": "福井県のプレミアム商品券「ふく＋」最終販売 売れ行き半分…低調につき12月15日まで延長 利用期限は年末（福井テレビ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBadzczMW4xbU5OdXl6S09CWjh6LWlmTmdQczZxMEk0R0lvd3F1bEFIZXJNSTBBZEExcUNwXzFHUTdQOHIwUnpqaDNUWmFFSUwtdjFhVHJhdlJhd0dYVFg2NUR4c2J6bU9Wc21GY191VFd0aXdBM21fR1VQZ3ZGQTA?oc=5",
+      "published": "2026-11-19T00:33:00+00:00",
+      "summary": "福井県のプレミアム商品券「ふく＋」最終販売 売れ行き半分…低調につき12月15日まで延長 利用期限は年末（福井テレビ） &nbsp;&nbsp; Yahoo!ニュース",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-23T23:07:03.929238+00:00"
+    },
+    {
+      "id": "2c6b7d4e643ac37e",
+      "topic": "Google News / digital products",
+      "title": "【📣 昭島市プレミアム付デジタル商品券12月1日正午より販売開始！】 - 公明党",
+      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNaW1XNnZoM2FEY3dOTjZxV2pHdnRtWklSc0hzRmVHekhQak1WS0ZEdzJ2WVJQSWdTcjUtRVJNTjh0RmNkaFhydnN5dHlIdTkxeGlWOGlaejBNVmZEM244SnhGY1M0YXpLOHo5YjRvOUFWOTBLQlVCOEhxblh5dkxEZnFsWHZUNWMzby13andwcXFucUVEYjVISk94aTZXU1g5WURtMVR2bHFxME1FRThGdkpsOHZVa1kyR0pDMFdxbVBVXzFTeUdJeFVWeHpxaWdkRXZmbFhJUmowSDdhSEo1NllzSTlBZjFEdDJvUHEzNTVOaXIyZkFzcThlbE9GZ0E1a2p2UW5CcllmbjZSc2JHOFM3VHNpOEpmcGQ3eVc4T3hLUDFzVFNTNXV1V0JhVkhaM1ZUekdNOUtTTWRSUTV2Szc3Y2hFMDZiWnlvajA2RFRBbDZKLVNpVmYwaDY5R1VyRlZnOWNCdUhIbmI0NmJ5U1JWeDJGek9u?oc=5",
+      "published": "2026-11-13T12:52:56+00:00",
+      "summary": "【📣 昭島市プレミアム付デジタル商品券12月1日正午より販売開始！】 &nbsp;&nbsp; 公明党",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-23T23:07:03.929238+00:00"
+    },
+    {
+      "id": "82b735a1b7572bfa",
+      "topic": "Google News / small business",
+      "title": "スターティアホールディングス[3393]：福岡証券取引所への重複上場申請に関する取締役会決議のお知らせ 2026年10月30日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HaGQ4SEpLZFpfSjFHYWczcVp6eW9BejN3Nm1GR3JEWGc3WDBlNHk0SFVoOHhNc1laVVF1TXNqUWpXYWdqZG5zZUlFX3hZbS1MYzRSVy1qemtfNVM1aWJxZFR4UHRpWEEtUGc?oc=5",
+      "published": "2026-10-30T07:00:00+00:00",
+      "summary": "スターティアホールディングス[3393]：福岡証券取引所への重複上場申請に関する取締役会決議のお知らせ 2026年10月30日(適時開示) ：日経会社情報DIGITAL &nbsp;&nbsp; 日本経済新聞",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-23T23:07:03.929238+00:00"
+    },
+    {
+      "id": "96746622e06a35fa",
+      "topic": "Google News / small business",
+      "title": "「手が回らない」地方中小企業のデジタル化を救う。クウカンが自社DX実績（ゴエン・リクルーティブ）を武器に仕掛ける伴走型Web・システム支援 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0zVVd3RjBMMDJJMHc2aUpUY3BMMWgxMFZWWkxKZElhWDJoQUx5dDY3eXllZ1QwcEJjZEFFOEVVUnFyekdWS1c0?oc=5",
+      "published": "2026-07-04T07:00:00+00:00",
+      "summary": "「手が回らない」地方中小企業のデジタル化を救う。クウカンが自社DX実績（ゴエン・リクルーティブ）を武器に仕掛ける伴走型Web・システム支援 &nbsp;&nbsp; Newscast.jp",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-23T23:07:03.929238+00:00"
+    },
+    {
+      "id": "f2e1d64c5885ef63",
+      "topic": "Google News / small business",
+      "title": "【2026年最新】業種別に見るM&A市場動向と今後の傾向を徹底解説｜鈴木芳徳 - mbp-japan.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mOVFCSnZ1Z3QtVUU4MENwLUVBNmd1U2pUMUdOcnNuTmt1elM5dUpxalotNkFXdldCVlRfejRYcVFNYnlPR3JfNEZpbWFfaWNlcmo5dHFUR3FOMDVaOFBGVXV5Zw?oc=5",
+      "published": "2026-06-18T07:00:00+00:00",
+      "summary": "【2026年最新】業種別に見るM&A市場動向と今後の傾向を徹底解説｜鈴木芳徳 &nbsp;&nbsp; mbp-japan.com",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-23T23:07:03.929238+00:00"
+    },
+    {
+      "id": "c49d7382b9d32588",
+      "topic": "Google News / small business",
+      "title": "「中小企業DX」で本当に儲かるのはどこだ？──通信×ITサービスの恩恵を受ける厳選20銘柄 - note",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GTm1XN2tLUGwyWXliNy01VzZScmZpMW9MQzRkVGpOeW4zNi1OZ0pQSXJqZ1k3OFJlZmU3SE9NZ0I2RWpBcThjd0FOd1U0TXljYWJFSXJ4eHlHRTg?oc=5",
+      "published": "2026-04-13T07:00:00+00:00",
+      "summary": "「中小企業DX」で本当に儲かるのはどこだ？──通信×ITサービスの恩恵を受ける厳選20銘柄 &nbsp;&nbsp; note",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-23T23:07:03.929238+00:00"
+    },
+    {
+      "id": "3713d0a73afdcbe9",
+      "topic": "Google News / small business",
+      "title": "事例から見る「DXを牽引するタスクと人材の姿」 - MRI 三菱総合研究所",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xZ3dhRmIyTWRwSEthY01qWDluc1lyRmU0c1psUW9NeG0wRVlXTUFaeEhla0FHVDg3RFNZNG8tQmExTzJNekkwOG9PWVViNjRZZnpfOEpFamEwNDI0cUVOSk1aQQ?oc=5",
+      "published": "2025-08-06T07:00:00+00:00",
+      "summary": "事例から見る「DXを牽引するタスクと人材の姿」 &nbsp;&nbsp; MRI 三菱総合研究所",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-23T23:07:03.929238+00:00"
+    },
+    {
+      "id": "5be1a2d1fbdbcda8",
+      "topic": "Google News / small business",
+      "title": "DXに取り組んでいる中小・中堅企業は19.1% 業務デジタル化の“カギ”は人材・知識不足をサポートする「アナログな相談相手」 - Ricoh",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1R2c5M1NETHNUd1hUazRxOUpUVFA3ZnhKdjUwalZBTU5zMU4zOFA2bjNPaEkyUnlfZFM0VDBSS1RRcERERnhiQnJjbGh6cVlVdlE?oc=5",
+      "published": "2023-03-23T07:00:00+00:00",
+      "summary": "DXに取り組んでいる中小・中堅企業は19.1% 業務デジタル化の“カギ”は人材・知識不足をサポートする「アナログな相談相手」 &nbsp;&nbsp; Ricoh",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-23T23:07:03.929238+00:00"
+    },
+    {
+      "id": "a722c4725b237a73",
+      "topic": "Google News / small business",
+      "title": "令和４年度北九州市内中小製造業におけるDX人材需要調査レポートの公開について - 北九州学術研究都市",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xZ0xtNTZqZXRTbl9LY1pvcUpKNWYyRHRubllrRHJYWHl1ZkI4OERKcFRNT1BGT2puTmYxZHJWendERnZjTmpuWXdpUFVPdWZTVkxnNVRuNDYyLTVyaFBEbmR5LVhuY2VpTnY2MC1B?oc=5",
+      "published": "2023-05-09T07:00:00+00:00",
+      "summary": "令和４年度北九州市内中小製造業におけるDX人材需要調査レポートの公開について &nbsp;&nbsp; 北九州学術研究都市",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-23T23:07:03.929238+00:00"
+    },
+    {
+      "id": "c8ae6868faa78a68",
+      "topic": "Google News / creator economy",
+      "title": "YouTube、収益化基準を2027年に大幅引き上げへ 新規参加条件が従来の2倍に - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fYVRUYURkc0twYkNaRWVqaFVOb0hMZjd2T1VXV1RfcHlzbS1PazJGRW1IRm1VY1pYaHYwRjBuR2tCaWhqd3ZoZlBnSkZfaUJQVmd6aGg3RW43VHhFcERkM05CMUtXZ3FGbmc?oc=5",
+      "published": "2026-08-11T07:00:00+00:00",
+      "summary": "YouTube、収益化基準を2027年に大幅引き上げへ 新規参加条件が従来の2倍に &nbsp;&nbsp; ITmedia",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-23T23:07:03.929238+00:00"
+    },
+    {
+      "id": "04825841a8a561f1",
+      "topic": "Google News / creator economy",
+      "title": "58歳からRobloxでゲーム制作を開始→収益化まで達成したクリエイター「Robloxじいさん」に注目 - Mogura VR",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5OOGo2UDlySVR0dkp2NmFHcGxrN29sZFZ1UnZsVU80Y1ZubXh5bEpHZ2Rpby1xZGhCSm4zOW41eVM3UmltVEREbmxaUzI?oc=5",
+      "published": "2026-08-28T09:00:09+00:00",
+      "summary": "58歳からRobloxでゲーム制作を開始→収益化まで達成したクリエイター「Robloxじいさん」に注目 &nbsp;&nbsp; Mogura VR",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-23T23:07:03.929238+00:00"
+    },
     {
       "id": "2d00853de1939d8a",
       "topic": "Google News / AI automation",
@@ -250,7 +382,7 @@
       "topic": "Google News / creator economy",
       "title": "SNSでニュースを知る時代、 ニュース系クリエイター が収益化に苦戦する理由 - DIGIDAY［日本版］",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFpLNDlka2E1LVUwOWpfLWlpajQ5NkFHamdfOVJmOE9iaHFQUGVUU2dWYmo4cXk5TGdUM1NqUjRTSVpLODVRMEx0dWxsU0Y4M1ZFVUc2MzBqdjkwc2ZGRDRMRTZKdWVrNlpsUk92SmxiVjdOVmVqN190UzFQNWZ1Q1JfbEVkRk5RMFN2V1RxNFNYMGJCcVlmZ1g0VExNaUY1endmLThpcF9oQjA0eVhvSnk4ZlBjUzFURzgya0xR?oc=5",
-      "published": "2026-11-10T00:00:54+00:00",
+      "published": "2026-11-10T08:00:00+00:00",
       "summary": "SNSでニュースを知る時代、 ニュース系クリエイター が収益化に苦戦する理由 &nbsp;&nbsp; DIGIDAY［日本版］",
       "source_type": "news_aggregation",
       "verification": "unverified",
@@ -745,7 +877,7 @@
       "topic": "Google News / creator economy",
       "title": "YouTube、新規クリエイターの収益化基準を2倍に…ショート動画2,000万回・長編8,000時間 - BigGo ファイナンス",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TRThpVm5oUm9fVmcxazJLdl9JUHh2b1VPR3NaYjlBVC1zdnFQcVgxN0REMER6ZUt3RjZsREFuS18yNmFXRWFaWWxJNU5GZXg0SnhmMWtjWVQxVFBJYkNnUFhOejl2aUJZLUlYN3dyVXp4Y3RS?oc=5",
-      "published": "2026-08-10T07:00:00+00:00",
+      "published": "2026-08-11T03:12:52+00:00",
       "summary": "YouTube、新規クリエイターの収益化基準を2倍に…ショート動画2,000万回・長編8,000時間 &nbsp;&nbsp; BigGo ファイナンス",
       "source_type": "news_aggregation",
       "verification": "unverified",
