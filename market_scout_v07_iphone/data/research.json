@@ -1,6 +1,6 @@
 {
   "schema_version": "0.7",
-  "generated_at": "2026-11-23T23:07:03.929238+00:00",
+  "generated_at": "2026-11-24T23:10:09.728706+00:00",
   "disclaimer": "News headlines are discovery leads, not validated customer demand or verified primary sources. No AI analysis or revenue automation has run.",
   "feed_status": [
     {
@@ -25,6 +25,50 @@
     }
   ],
   "items": [
+    {
+      "id": "fa0ffcb17a6c89d8",
+      "topic": "Google News / AI automation",
+      "title": "Claude Codeに実験機能「Code Mode」、AIがJavaScriptでツール連携し作業自動化（ビジネス＋IT） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80eTRNc3F2R1d5aHRhb2hFQWtEcFRQTy00MUNRd2dQR3ZZVHJPQ3MyaDc5NjgyVUwtWlgtUzNGMmtreWFtdVZ3N3RYcFMyajljUDYxcVFHdUdoOXpyQ1pvRW1GY0VELWV4RHQtMFVva1VJcGlpNFU5UFUwRnJ5Vzg?oc=5",
+      "published": "2026-11-19T14:10:06+00:00",
+      "summary": "Claude Codeに実験機能「Code Mode」、AIがJavaScriptでツール連携し作業自動化（ビジネス＋IT） &nbsp;&nbsp; Yahoo!ニュース",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-24T23:10:09.728706+00:00"
+    },
+    {
+      "id": "a930f82cc6709d30",
+      "topic": "Google News / AI automation",
+      "title": "生成AIを活用し、Power Automateで案件管理業務を改善した新入社員のDX実践 - NTTPCコミュニケーションズ",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1clNNUnUtVm15ay14b1ZYdWZHQmF0WVBHV1FFUUFPeW1DRHM5VF9OaXFwWU5SNVJZczJwUWtGeUJHUllPNkZEaUVwMzRRMl8tNTB2YXZoYlBZMk1nVkFhSm8tRVViOHhFVDBaYTdRcw?oc=5",
+      "published": "2026-09-11T00:53:11+00:00",
+      "summary": "生成AIを活用し、Power Automateで案件管理業務を改善した新入社員のDX実践 &nbsp;&nbsp; NTTPCコミュニケーションズ",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-24T23:10:09.728706+00:00"
+    },
+    {
+      "id": "374b382b1bef236b",
+      "topic": "Google News / AI automation",
+      "title": "GMO、生成AIの「答えるだけ問題」を解消へ 社内ナレッジを業務フローにつなぐ - キーマンズネット",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RaUxtYU1zT2ktTkU1VVJKMXpULVZxLWlKSUkyUllySUticUk0Qy1INUFaS2FmTU5SWmN4UVp6SlZCUXlsTTdFdXlZRmVjZjFFMC1RZjRpM2lhTTZNVFFrZW9uS3VIUQ?oc=5",
+      "published": "2026-10-21T07:00:00+00:00",
+      "summary": "GMO、生成AIの「答えるだけ問題」を解消へ 社内ナレッジを業務フローにつなぐ &nbsp;&nbsp; キーマンズネット",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-24T23:10:09.728706+00:00"
+    },
+    {
+      "id": "2831dbb25204c337",
+      "topic": "Google News / AI automation",
+      "title": "Oracle Integrationでエージェント型AIを活用し、企業の業務自動化を加速 | oracle4engineer - Oracle Blogs",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTGVBTmRKQVdmZzVPcHc4MG8xU0llV2k3cTNNNzZGdkRXdmd6c0VXZnEzMG4zcC1EdEIyd0NuQWNyQUtTbFAyclVTOURXV2dxS0g5OHA5X2RsX0liaXQ5WkU1NzhTT1ZWZmhHMmN3XzJPV05MRkJIM1lYSUJXbEs0RjdDQnlGM3V2RURYUVhaTDh2ZE1sZGg1NHJfRmF4eF9EOC0wSThfbHZVNFBveVgxdjdNNGhZWmdC?oc=5",
+      "published": "2026-08-24T07:00:00+00:00",
+      "summary": "Oracle Integrationでエージェント型AIを活用し、企業の業務自動化を加速 | oracle4engineer &nbsp;&nbsp; Oracle Blogs",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-24T23:10:09.728706+00:00"
+    },
     {
       "id": "c0752958d8e29036",
       "topic": "Google News / AI automation",
@@ -877,7 +921,7 @@
       "topic": "Google News / creator economy",
       "title": "YouTube、新規クリエイターの収益化基準を2倍に…ショート動画2,000万回・長編8,000時間 - BigGo ファイナンス",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TRThpVm5oUm9fVmcxazJLdl9JUHh2b1VPR3NaYjlBVC1zdnFQcVgxN0REMER6ZUt3RjZsREFuS18yNmFXRWFaWWxJNU5GZXg0SnhmMWtjWVQxVFBJYkNnUFhOejl2aUJZLUlYN3dyVXp4Y3RS?oc=5",
-      "published": "2026-08-11T03:12:52+00:00",
+      "published": "2026-08-10T07:00:00+00:00",
       "summary": "YouTube、新規クリエイターの収益化基準を2倍に…ショート動画2,000万回・長編8,000時間 &nbsp;&nbsp; BigGo ファイナンス",
       "source_type": "news_aggregation",
       "verification": "unverified",
