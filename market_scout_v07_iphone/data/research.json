@@ -1,6 +1,6 @@
 {
   "schema_version": "0.7",
-  "generated_at": "2026-11-24T23:10:09.728706+00:00",
+  "generated_at": "2026-11-25T23:08:45.106028+00:00",
   "disclaimer": "News headlines are discovery leads, not validated customer demand or verified primary sources. No AI analysis or revenue automation has run.",
   "feed_status": [
     {
@@ -25,6 +25,28 @@
     }
   ],
   "items": [
+    {
+      "id": "c32f57a12d5d252e",
+      "topic": "Google News / AI automation",
+      "title": "株式会社ifが提供する生成AI×業務効率化 実践コースで業務自動化を実現する研修 - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ycW1iS0JmbUQxZjc1MUpWaFZYNDd2NERYLXU0U1dEaWRQYmJEbEFEbmE2bk1iLUtjdzNfbHVERVBnQWpXRXVaSHpVNm0tX0RLQ3A1OVV1aHNDVWFjbkRjWThhaUEwQzVIZ2Uw?oc=5",
+      "published": "2026-11-25T08:16:50+00:00",
+      "summary": "株式会社ifが提供する生成AI×業務効率化 実践コースで業務自動化を実現する研修 &nbsp;&nbsp; ニュースメディアVOIX",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-25T23:08:45.106028+00:00"
+    },
+    {
+      "id": "c3eae669f8627903",
+      "topic": "Google News / small business",
+      "title": "中小企業のデジタル投資急増、1〜6月最大に 人手不足で｢生産性革命｣ - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEMzNZdnJISEFQSnFBMU9qMUJ3YjB6WVFZYTBkc0hzRENvYWlrX2tKS2Q0RURhOS1FVzdzOUo4QjlIVEdFcjN6TXlEYUFuU0xSWjh1U0c0dnplSUJGREkwbzMxejZiQnZKZHRsYg?oc=5",
+      "published": "2026-11-10T08:00:00+00:00",
+      "summary": "中小企業のデジタル投資急増、1〜6月最大に 人手不足で｢生産性革命｣ &nbsp;&nbsp; 日本経済新聞",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-25T23:08:45.106028+00:00"
+    },
     {
       "id": "fa0ffcb17a6c89d8",
       "topic": "Google News / AI automation",
