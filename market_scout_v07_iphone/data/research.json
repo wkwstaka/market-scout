@@ -1,6 +1,6 @@
 {
   "schema_version": "0.7",
-  "generated_at": "2026-11-25T23:08:45.106028+00:00",
+  "generated_at": "2026-11-26T23:12:09.634450+00:00",
   "disclaimer": "News headlines are discovery leads, not validated customer demand or verified primary sources. No AI analysis or revenue automation has run.",
   "feed_status": [
     {
@@ -25,6 +25,28 @@
     }
   ],
   "items": [
+    {
+      "id": "2937308ae6de6499",
+      "topic": "Google News / AI automation",
+      "title": "業務工数を最大83%削減！ファクタリング会社向け業務自動化システム「Factoring OS」を11/26(木)より提供開始。申込〜AI与信審査、契約、督促から回収までワンストップで - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zNG5DRlVkS2kwX1pOZm03VF9EeUxpVVVWODYwb1VHSE8xMW9hN0pYR0lDZklVU3BPT2NiREJVMlhleHB4Mjh1ZTRtQ01RaEw0NmxBakhmNXlkY3JLVTNWOWp6SXdiRElYOEE?oc=5",
+      "published": "2026-11-26T04:03:10+00:00",
+      "summary": "業務工数を最大83%削減！ファクタリング会社向け業務自動化システム「Factoring OS」を11/26(木)より提供開始。申込〜AI与信審査、契約、督促から回収までワンストップで &nbsp;&nbsp; PR TIMES",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-26T23:12:09.634450+00:00"
+    },
+    {
+      "id": "dacead5b07e800ac",
+      "topic": "Google News / digital products",
+      "title": "くらよしデジタル商品券について - 倉吉市",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zSkZtd1JnWnNEWFRQTEdtTGoxa3JaalhlUnhvUUp6U00zRVh6b2t6YXZLNTZOU3VkaThHLXpvUjVHYV9GTGhDb09HLTU0b0hUZmxhMQ?oc=5",
+      "published": "2026-03-25T05:19:38+00:00",
+      "summary": "くらよしデジタル商品券について &nbsp;&nbsp; 倉吉市",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-26T23:12:09.634450+00:00"
+    },
     {
       "id": "c32f57a12d5d252e",
       "topic": "Google News / AI automation",
@@ -668,7 +690,7 @@
       "topic": "Google News / digital products",
       "title": "【令和8年12月1日販売開始】昭島市プレミアム付デジタル商品券を販売｜昭島市公式ホームページ - 昭島市公式ホームページ",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CREZ2TjY4V3ktblFiTHNqRzRKbjE3aVk1UTJQTDZPLV9uemZOLU1PaE1ERDFuQmtoSjZtSWYyZUVqUEJjbWNDUW10b01TemxmekJwTHZCaFRxLUJPeFFHNVk2LTUzdUZRcmxkbUIzZmI?oc=5",
-      "published": "2026-11-17T08:00:00+00:00",
+      "published": "2026-11-25T08:00:00+00:00",
       "summary": "【令和8年12月1日販売開始】昭島市プレミアム付デジタル商品券を販売｜昭島市公式ホームページ &nbsp;&nbsp; 昭島市公式ホームページ",
       "source_type": "news_aggregation",
       "verification": "unverified",
