@@ -1,6 +1,6 @@
 {
   "schema_version": "0.7",
-  "generated_at": "2026-11-26T23:12:09.634450+00:00",
+  "generated_at": "2026-11-27T23:11:11.709199+00:00",
   "disclaimer": "News headlines are discovery leads, not validated customer demand or verified primary sources. No AI analysis or revenue automation has run.",
   "feed_status": [
     {
@@ -25,6 +25,39 @@
     }
   ],
   "items": [
+    {
+      "id": "f5f79553079d81a3",
+      "topic": "Google News / AI automation",
+      "title": "ソフトブレーンが国産CRM「esm」を出展。「社内業務の効率化・自動化」に関する注目の出展企業を紹介【イプロスAI-産業World 2026】 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DZzBmc3h6WFNMalQyTWtPOXhMTXBzZTNhYVphWHo5RzdZb0pFRWRSajNXNDh5YnFLY25SNjRjOHZkaURyTzE4VHEzY2c0ZUlSVnR6OUtDczBydkNCaVlvdGxJU2dOMG12Ui12YlhLUE85dw?oc=5",
+      "published": "2026-11-27T19:45:23+00:00",
+      "summary": "ソフトブレーンが国産CRM「esm」を出展。「社内業務の効率化・自動化」に関する注目の出展企業を紹介【イプロスAI-産業World 2026】 &nbsp;&nbsp; Infoseek",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-27T23:11:11.709199+00:00"
+    },
+    {
+      "id": "0bec6ae4d1ec8642",
+      "topic": "Google News / digital products",
+      "title": "墨田区内で使えるデジタル商品券 年末ニーズに合わせて2次販売 (みんなの経済新聞ネットワーク) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSXpORWQxNHZTYXFXNXZFeWZwUVJ1dkJqN2poUHVBUHROU1hQOGNmQWYwN2RqX29Xa3IyZjZqVVM1b1BJVndDY1lmb0JZSGJRZTJOcFNOdkdrU2J3OFA5VW0yOVJnOWt4MmhVaE8wTGxDMUgwc1ZxN04xUTRIWFFnUWlsaTV6VXBrc2p3cDlB?oc=5",
+      "published": "2026-11-16T09:31:27+00:00",
+      "summary": "墨田区内で使えるデジタル商品券 年末ニーズに合わせて2次販売 (みんなの経済新聞ネットワーク) &nbsp;&nbsp; Yahoo!ニュース",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-27T23:11:11.709199+00:00"
+    },
+    {
+      "id": "50a315968c395a5d",
+      "topic": "Google News / creator economy",
+      "title": "クリエイターの収益化を支える仕事。noteディレクターが語る、この仕事の面白さ｜note株式会社 - note株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0tOWppNV9lTlFsazhFLVlJVVVqTnotQWpWcjd0WHhTb1J0NTEzNkZGWGhmb2o5THhUeU1pRHNvY281bFBkZFE?oc=5",
+      "published": "2026-01-30T08:00:00+00:00",
+      "summary": "クリエイターの収益化を支える仕事。noteディレクターが語る、この仕事の面白さ｜note株式会社 &nbsp;&nbsp; note株式会社",
+      "source_type": "news_aggregation",
+      "verification": "unverified",
+      "first_seen": "2026-11-27T23:11:11.709199+00:00"
+    },
     {
       "id": "2937308ae6de6499",
       "topic": "Google News / AI automation",
@@ -690,7 +723,7 @@
       "topic": "Google News / digital products",
       "title": "【令和8年12月1日販売開始】昭島市プレミアム付デジタル商品券を販売｜昭島市公式ホームページ - 昭島市公式ホームページ",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CREZ2TjY4V3ktblFiTHNqRzRKbjE3aVk1UTJQTDZPLV9uemZOLU1PaE1ERDFuQmtoSjZtSWYyZUVqUEJjbWNDUW10b01TemxmekJwTHZCaFRxLUJPeFFHNVk2LTUzdUZRcmxkbUIzZmI?oc=5",
-      "published": "2026-11-25T08:00:00+00:00",
+      "published": "2026-11-27T13:31:55+00:00",
       "summary": "【令和8年12月1日販売開始】昭島市プレミアム付デジタル商品券を販売｜昭島市公式ホームページ &nbsp;&nbsp; 昭島市公式ホームページ",
       "source_type": "news_aggregation",
       "verification": "unverified",
